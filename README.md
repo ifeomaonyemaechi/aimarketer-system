@@ -1,43 +1,4 @@
-# AIMarketer.co — Agency Operations System
-**Built by Ifeoma Onyemaechi | AIMarketer.co**
-
-An AI-powered agency operations system for AIMarketer.co.
-Built with Claude Code and the Anthropic API. This system
-handles all client-facing agency work — lead qualification,
-outreach, proposals, and campaign management — through
-specialised AI agents and reusable skill templates.
-
----
-
-## SYSTEM CAPABILITIES
-
-### Lead Generation
-- Lead scoring against ideal client profile (0-100)
-- Qualification across Upwork, Contra, PeoplePerHour, LinkedIn
-- Service matching and proof point selection
-- 36 outreach touchpoints generated in 264 seconds
-
-### Client Outreach
-- Cold emails, LinkedIn messages, Instagram DMs
-- Platform-specific word count and tone rules
-- Observation-first approach — no generic templates
-- 3-touch follow-up sequences per lead
-
-### Proposal Writing
-- Short proposals for freelance platforms (under 300 words)
-- Full direct client proposals with deliverables tables
-- Metrics-led — proof point referenced in every proposal
-- Pricing guidance in ZAR and USD
-
-### Campaign Management
-- Brief-to-output pipeline for client campaigns
-- Brand voice enforcement across all deliverables
-- Output tracking with timestamps and metrics
-
----
-
-## SYSTEM ARCHITECTURE
-**Part 2** (paste immediately after):
+**Part 2:**
 
 ```markdown
 ---
@@ -56,9 +17,18 @@ specialised AI agents and reusable skill templates.
 
 | Skill | Output |
 |-------|--------|
+| `qualify-lead` | Lead qualification report with score and tier |
 | `write-cold-outreach` | Single platform outreach message |
 | `generate-proposal` | Short or full client proposal |
 | `write-follow-up-sequence` | 3-touch follow-up per lead |
+
+---
+
+## MCP SERVERS
+
+| Server | Function |
+|--------|----------|
+| GitHub MCP | Repository management, commits, issue tracking |
 
 ---
 
@@ -67,6 +37,8 @@ specialised AI agents and reusable skill templates.
 | System | Output | Time |
 |--------|--------|------|
 | Lead Generation and Outreach | 36 touchpoints, 6 leads | 264 seconds |
+| Lead Qualification (Claude Code) | StrongForm Co scored 85/100 | 2 minutes 13 seconds |
+| Proposal Generation (Claude Code) | 273-word Upwork proposal | Under 1 minute |
 | Email Campaign System | 13 emails, 4 campaign types | Under 20 minutes |
 | Brand Strategy | 600+ line deliverable | 161 seconds |
 | Marketing Audit | 5-channel audit | 221 seconds |
@@ -74,10 +46,21 @@ specialised AI agents and reusable skill templates.
 
 ---
 
+## IDEAL CLIENT PROFILE
+- Shopify or eCommerce brand
+- Using or considering Klaviyo
+- Founder-led, 1-5 person team
+- Industries: fitness, wellness, beauty, sustainable fashion,
+  home and lifestyle
+- Revenue: R50,000-R500,000/month
+
+---
+
 ## TECH STACK
-- Claude Code (agent orchestration)
+- Claude Code 2.1.112 (agent orchestration)
 - Anthropic API with claude-sonnet-4-20250514
-- Python 3.14
+- Python 3.14 (5 outreach pipeline scripts)
+- GitHub MCP (repository management)
 - Git + GitHub (version control)
 
 ---
@@ -93,4 +76,3 @@ ifeomaonyemaechi1@gmail.com
 
 *This system was built as part of a portfolio demonstrating
 AI-powered marketing automation for eCommerce and DTC brands.
-
