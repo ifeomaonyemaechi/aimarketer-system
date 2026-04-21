@@ -1,5 +1,5 @@
 # Skill: Generate Thought Leadership Calendar
-# AIMarketer.co Agency Operations System
+# Ifeoma Automation Operations System
 
 ## WHAT THIS SKILL DOES
 Generates a 30-day social media content calendar for Ifeoma

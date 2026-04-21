@@ -1,5 +1,5 @@
 # Skill: Write Cold Outreach
-# AIMarketer.co Agency Operations System
+# Ifeoma Automation Operations System
 
 ## WHAT THIS SKILL DOES
 Generates a complete cold outreach message for a single lead

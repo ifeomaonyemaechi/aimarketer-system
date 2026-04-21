@@ -1,5 +1,5 @@
 # Skill: Write Follow-Up Sequence
-# AIMarketer.co Agency Operations System
+# Ifeoma Automation Operations System
 
 ## WHAT THIS SKILL DOES
 Generates a 3-touch follow-up sequence for a single lead

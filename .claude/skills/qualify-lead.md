@@ -1,5 +1,5 @@
 # Skill: qualify-lead
-# AIMarketer.co Agency Operations System
+# Ifeoma Automation Operations System
 
 ## PURPOSE
 Score and qualify an inbound lead or job post against the AIMarketer.co
