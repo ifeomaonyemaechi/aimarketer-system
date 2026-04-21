@@ -139,6 +139,10 @@ Before saving output, confirm:
 [ ] Platform distribution follows weekly structure
 [ ] At least 6 posts reference real metrics from
     Ifeoma's portfolio
+[ ] Every post referencing a metric is flagged with
+    VISUAL REQUIRED: [type of visual needed]
+[ ] Every how-to or walkthrough post is flagged with
+    VISUAL REQUIRED: Screen recording recommended    
 
 ## OUTPUT STRUCTURE
 THOUGHT LEADERSHIP CALENDAR — Ifeoma Onyemaechi
@@ -159,6 +163,8 @@ POST:
 
 ENGAGEMENT PREDICTION:
 [one sentence on why this post should perform]
+VISUAL REQUIRED: [Screenshot / Screen recording / No visual needed]
+VISUAL DESCRIPTION: [exactly what to capture if visual is needed]
 
 ---
 [repeat for all 30 days]
