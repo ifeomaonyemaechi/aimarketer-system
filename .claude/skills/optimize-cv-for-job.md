@@ -110,8 +110,10 @@ For every required skill not in Ifeoma's background:
 3. Complete all 4 steps in order
 4. Write the full optimized CV
 5. Flag all gaps honestly
-6. Save to outputs/career/CV_[JOBTITLE]_[COMPANY]_
-   [YYYYMMDD].md
+6. Save TWO files:
+   - REPORT file: full analysis + gaps + optimized CV
+   - CV file: clean CV only — no analysis, no metadata
+   Submit only the CV file to employers.
 
 ## QUALITY GATES
 Before saving output, confirm:
@@ -124,12 +126,17 @@ Before saving output, confirm:
 [ ] Output is a complete CV — not just the changes
 
 ## OUTPUT STRUCTURE
-CV OPTIMIZATION — Ifeoma Onyemaechi
-=====================================
+
+### FILE 1 — INTERNAL REPORT
+Save to: outputs/career/REPORT_[JOBTITLE]_[COMPANY]_[YYYYMMDD].md
+
+CV OPTIMIZATION REPORT — Ifeoma Onyemaechi
+===========================================
 Job title: [title]
 Company: [company]
 Platform: [platform]
 Date: [date]
+Agent: cv-optimizer | Skill: optimize-cv-for-job
 
 JOB ANALYSIS:
 Required skills in CV: [list]
@@ -138,11 +145,33 @@ ATS keywords added: [list]
 Fit score: [X/10]
 Recommendation: [Apply now / Apply with note / Skip]
 
-OPTIMIZED CV:
-[Complete rewritten CV — ready to copy and submit]
-
 GAPS REPORT:
 [Honest gaps with specific suggestions to address each]
+
+### FILE 2 — CLEAN CV FOR SUBMISSION
+Save to: outputs/career/CV_[JOBTITLE]_[COMPANY]_[YYYYMMDD].md
+
+This file contains ONLY the rewritten CV — no analysis,
+no metadata, no agent references. Ready to convert to PDF
+and submit directly to the employer.
+
+IFEOMA ASSUMPTA ONYEMAECHI
+[contact details]
+
+PROFESSIONAL SUMMARY
+[rewritten summary]
+
+CORE SKILLS
+[reordered skills]
+
+WORK EXPERIENCE
+[reordered and rewritten experience]
+
+PORTFOLIO PROJECTS
+[reordered projects]
+
+CERTIFICATIONS
+[reordered certifications]
 
 ## METRICS TO LOG
 - Job title and company
@@ -150,3 +179,4 @@ GAPS REPORT:
 - ATS keywords added
 - Time to complete
 - Recommendation
+- Two files saved: report and clean CV confirmed
