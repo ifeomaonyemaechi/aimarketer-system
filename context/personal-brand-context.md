@@ -10,7 +10,7 @@ Email: hello@ifeomaautomation.com
 Website: ifeomaautomation.com
 LinkedIn: linkedin.com/in/ifeoma-onyemaechi
 GitHub: github.com/ifeomaonyemaechi
-X/Twitter: [your handle — add when ready]
+X/Twitter: @AI___Marketer
 Instagram: [your handle — add when ready]
 
 ## MY STORY IN ONE PARAGRAPH
