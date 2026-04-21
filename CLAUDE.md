@@ -8,7 +8,8 @@ all client-facing work: lead generation, outreach, proposal
 writing, audit delivery, and campaign management for clients.
 
 ## ABOUT AIMARKETER.CO
-Agency: AIMarketer.co
+Agency: Ifeoma Automation — AI-powered marketing automation agency
+Website: ifeomaautomation.com
 Founder: Ifeoma Onyemaechi
 Specialty: AI-powered marketing automation for eCommerce and
 Shopify brands

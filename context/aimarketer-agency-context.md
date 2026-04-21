@@ -3,13 +3,14 @@
 # Used by all agents in the AIMarketer.co system
 
 ## AGENCY OVERVIEW
-Name: AIMarketer.co
+Name: Ifeoma Automation
+Website: ifeomaautomation.com
 Founder: Ifeoma Onyemaechi
 Type: AI-powered marketing automation agency
 Specialty: Building Claude Code and Anthropic API systems
 for eCommerce and Shopify brands
 Location: Benoni, Gauteng, South Africa
-Contact: ifeomaonyemaechi1@gmail.com
+Contact: hello@ifeomaautomation.com
 LinkedIn: linkedin.com/in/ifeoma-onyemaechi
 GitHub: github.com/ifeomaonyemaechi
 

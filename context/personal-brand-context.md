@@ -5,9 +5,9 @@
 ## WHO I AM
 Name: Ifeoma Onyemaechi
 Title: Claude AI Co-Worker Specialist | Marketing Automation
-Business: AIMarketer.co
 Location: Benoni, Gauteng, South Africa
-Email: ifeomaonyemaechi1@gmail.com
+Email: hello@ifeomaautomation.com
+Website: ifeomaautomation.com
 LinkedIn: linkedin.com/in/ifeoma-onyemaechi
 GitHub: github.com/ifeomaonyemaechi
 X/Twitter: [your handle — add when ready]
