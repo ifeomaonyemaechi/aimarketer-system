@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CV_HYROS_CLEAN_20260422.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> or <div class="page"></div> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="ifeoma-assumpta-onyemaechi">IFEOMA ASSUMPTA ONYEMAECHI</h1>
+<p>hello@ifeomaautomation.com | +27 83 397 5335
+linkedin.com/in/ifeoma-onyemaechi | github.com/ifeomaonyemaechi
+resisted-secretary.notion.site | ifeomaautomation.com
+Benoni, Gauteng, South Africa — Remote (EST-compatible)</p>
+<h2 id="professional-summary">PROFESSIONAL SUMMARY</h2>
+<p>AI Prompting and Automation Engineer with hands-on experience building,
+testing, and optimizing AI agent systems using Claude Code and the Anthropic
+API — combined with a proven track record writing conversion-focused email
+marketing for Shopify eCommerce brands. Built 7 specialized marketing agents
+and 14 automation skills from scratch; achieved 25% cart recovery rate and
+$18,500 monthly cart revenue through lifecycle email optimization with zero
+launch errors. Obsessed with the prompt-level detail that determines whether
+an AI agent produces revenue or noise.</p>
+<h2 id="core-skills">CORE SKILLS</h2>
+<p>AI and Prompt Engineering</p>
+<ul>
+<li>Claude Code — AI agent building, optimization, and behavior tuning</li>
+<li>Claude API / Anthropic API — Python pipeline development</li>
+<li>Prompt engineering for conversion and marketing outputs</li>
+<li>AI agent design, testing, and agent behavior optimization</li>
+<li>LLM workflow automation and AI agent flows</li>
+<li>Subagents and MCP (Model Context Protocol)</li>
+<li>Agent quality gates and output validation</li>
+</ul>
+<p>Email Marketing and Conversion</p>
+<ul>
+<li>Klaviyo (advanced — certified) — lifecycle automation specialist</li>
+<li>Conversion-focused email copywriting</li>
+<li>Welcome Series | Abandoned Cart | Browse Abandonment</li>
+<li>Post-Purchase | Win-Back | Re-engagement flows</li>
+<li>Segmentation, A/B testing, and performance optimization</li>
+<li>Email deliverability (SPF, DKIM, DMARC)</li>
+<li>Campaign scheduling, deployment, and KPI monitoring</li>
+</ul>
+<p>Automation and Workflow Engineering</p>
+<ul>
+<li>Python | Make.com | Zapier</li>
+<li>Webhook configuration | REST APIs | GitHub</li>
+</ul>
+<p>eCommerce and Platforms</p>
+<ul>
+<li>Shopify | Klaviyo-Shopify integration</li>
+<li>Revenue attribution | Customer lifecycle optimization</li>
+</ul>
+<p>Analytics and Reporting</p>
+<ul>
+<li>KPI tracking and performance reporting</li>
+<li>Klaviyo reporting | Google Analytics | Google Sheets dashboards</li>
+</ul>
+<h2 id="work-experience">WORK EXPERIENCE</h2>
+<p>Klaviyo Flow Builder — Freelance
+October 2025 – Present | CHOKEHERO — Shopify Brand | Upwork</p>
+<ul>
+<li>Designed and deployed complete lifecycle email automation stack —
+Welcome Series, Abandoned Cart, Browse Abandonment, Post-Purchase,
+and Win-Back flows — optimizing triggers, logic, and A/B tests to
+maximize conversion at every stage of the customer journey</li>
+<li>Achieved 25% cart recovery rate, $18,500 in monthly cart revenue,
+45% welcome email open rate, 15% repeat order lift, and 3.2x
+post-purchase ROI through continuous flow monitoring and
+prompt-level optimization of email content and structure</li>
+<li>Executed end-to-end QA pre-launch with zero errors: link validation,
+dynamic content rendering, and cross-device compatibility — obsessive
+attention to detail applied as a non-negotiable standard on every build</li>
+<li>Engineered audience segments based on purchase behavior, browse data,
+and engagement status to maximize email relevance and revenue impact
+per send; documented all segment logic and flow configurations in SOPs</li>
+<li>Monitored open rate, CTR, and revenue attribution as primary KPIs;
+tracked performance weekly and iterated on underperforming sequences</li>
+</ul>
+<p>Email Marketing and Automation Specialist — Freelance
+August 2025 | Ankara Fabric Store | Remote</p>
+<ul>
+<li>Built and launched conversion-focused email campaigns and re-engagement
+flows in Klaviyo; achieved approximately 40% conversion rate on targeted
+campaigns through segmentation precision and copy optimization</li>
+<li>Integrated Shopify, Make.com, and Airtable for automated data syncing;
+developed audience segments based on customer behavior for maximum
+targeting accuracy and revenue impact per campaign</li>
+<li>Monitored deliverability metrics and list health; compiled performance
+reports with full KPI analysis for client review</li>
+</ul>
+<p>Sales and Client Support Representative
+June 2022 – September 2024 | Uche's and Company | Johannesburg, SA</p>
+<ul>
+<li>Managed client-facing digital communications and supported online
+sales operations with documentation and performance tracking</li>
+<li>Maintained KPI tracking tools and compiled management-ready
+engagement and sales reports</li>
+</ul>
+<h2 id="ai-and-automation-portfolio">AI AND AUTOMATION PORTFOLIO</h2>
+<p>Claude Code — 7-Agent Marketing Automation System
+Tools: Claude Code, Claude API, Python, GitHub MCP | Built for: FemFit.fit</p>
+<ul>
+<li>Built and optimized 7 specialized AI marketing agents from scratch —
+lead qualifier, outreach writer, proposal writer, campaign manager,
+content engine, email writer, audit builder — with 14 skills, hooks,
+and automatic quality-check gates forming a complete AI agent pipeline</li>
+<li>Applied prompt engineering and agent behavior optimization across every
+agent: defined brief structures, output validation parameters, and
+conversion-focused copy guidelines to maximize revenue relevance
+of each AI agent output</li>
+<li>Generated Klaviyo-ready 3-email welcome series in 47 seconds with
+automatic QA pass; identified R24,000-R36,000/month in revenue gaps
+through a 5-channel AI marketing audit run in 2 minutes 4 seconds</li>
+<li>GitHub MCP integration: all AI-generated deliverables version-controlled
+with timestamps and structured filenames — infrastructure-grade output management</li>
+</ul>
+<p>AI-Powered Email Campaign System
+Tools: Python, Claude API</p>
+<ul>
+<li>Engineered prompt pipeline that generates 13 brand-consistent,
+conversion-optimized emails across 4 campaign types (Welcome,
+Promotional, Re-engagement, Post-Purchase) in under 20 minutes —
+92% time reduction vs. manual copywriting</li>
+<li>Prompt-optimized for brand voice consistency, CTA structure, and
+conversion intent per email type; output is Klaviyo-ready with
+subject lines, preview text, and body copy</li>
+</ul>
+<p>Lead Generation and Outreach Automation Engine
+Tools: Python, Claude API</p>
+<ul>
+<li>Built AI agent flow generating 36 personalized outreach touchpoints
+across 6 leads (cold email + follow-ups, LinkedIn, Instagram DM)
+in 264 seconds — zero manual drafting</li>
+<li>Prompt-engineered each output type for platform-specific conversion
+behavior: cold email tone vs. LinkedIn connection vs. Instagram DM opener</li>
+</ul>
+<p>Marketing Audit and Strategy Report Generator
+Tools: Python, Claude API</p>
+<ul>
+<li>Built AI agent generating 5-channel marketing audits — email, social,
+content, paid, funnel — with weighted scoring, competitive analysis,
+and 90-day revenue action plans in 221 seconds</li>
+<li>Revenue impact projections built into output for direct client delivery</li>
+</ul>
+<p>AIMarketer.co Agency Operations System
+Tools: Claude Code, Claude API, Python, GitHub</p>
+<ul>
+<li>4 agents, 5 skills for lead qualification, outreach, proposals, and
+campaign management; lead qualification: 85/100 score with personalized
+outreach opener in 2 minutes 13 seconds</li>
+</ul>
+<h2 id="certifications">CERTIFICATIONS</h2>
+<p>Anthropic Academy — all 8 courses completed (2025-2026):
+Claude 101 | AI Fluency | Introduction to Claude Cowork
+Agent Skills | Subagents | MCP (Model Context Protocol)
+MCP Advanced Topics | Building with the Claude API</p>
+<p>Klaviyo Academy:
+Product Certification | Deliverability | Digital Marketing | Developer Track</p>
+<p>Asana Academy:
+Workflow Specialist Certificate</p>
+<p>Digital Witch Academy:
+Virtual Assistance and IT Support — Google Workspace, HubSpot, Zapier,
+Mailchimp, ActiveCampaign, ClickUp, Asana, Slack</p>
+
+</body>
+</html>

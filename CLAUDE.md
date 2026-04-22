@@ -80,6 +80,9 @@ outputs/ — all generated content saved here
 - Every proposal must include metrics from portfolio
 - Every outreach message must reference something specific
   about the prospect's brand — no generic templates
+  - Never use em dashes (—) in any output. Use a hyphen (-) or
+  a colon (:) instead. Example: "CV OPTIMIZATION: Ifeoma
+  Onyemaechi" not "CV OPTIMIZATION — Ifeoma Onyemaechi"
 
 ## METRICS TO TRACK
 Log these for every generation run:
