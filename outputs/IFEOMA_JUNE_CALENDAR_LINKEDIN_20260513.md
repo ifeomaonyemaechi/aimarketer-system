@@ -1,6 +1,7 @@
 # IFEOMA ONYEMAECHI - JUNE 2026 LINKEDIN CONTENT CALENDAR
 # Platform: LinkedIn
-# Generated: May 13, 2026
+# Title: Klaviyo Email Marketing Specialist and Claude AI Co-Worker Specialist
+# Generated: May 19, 2026
 # Total Posts: 30
 
 ---
@@ -8,33 +9,32 @@
 DAY: Monday, June 1 2026
 PLATFORM: LinkedIn
 PILLAR: Builder
-HOOK: I built a 6-agent AI system and named it aimarketer-system. Here is why.
-MICRO-STORY: One afternoon I was switching between tabs - ChatGPT for the proposal, Notion for the brief, my email for follow-ups - and I thought: this is madness. I am a DevOps-trained marketer. I should be building pipelines, not switching tabs.
+HOOK: I took over a Shopify fitness brand's Klaviyo account last month. Their abandoned cart flow was recovering 6 percent of carts. One email. Sent 4 hours after abandonment.
+MICRO-STORY: The account had been "set up" by a previous freelancer. The flow existed. It just wasn't doing the job. One email with a subject line that read "Did you forget something?" - no social proof, no urgency, no follow-up.
 POST BODY:
-I built a 6-agent AI system and named it aimarketer-system. Here is why.
+I took over a Shopify fitness brand's Klaviyo account last month. Their abandoned cart flow was recovering 6 percent of carts. One email. Sent 4 hours after abandonment.
 
-One afternoon I was switching between tabs - ChatGPT for the proposal, Notion for the brief, my email for follow-ups.
+I rebuilt it to 3 emails.
 
-I thought: this is madness. I am DevOps-trained. I should be building pipelines, not switching tabs.
+Email 1 at 1 hour: simple, direct, "your cart is waiting" with the product image and a clear CTA.
 
-So I built aimarketer-system on GitHub.
+Email 2 at 24 hours: social proof. Their best reviews for the specific product left in cart.
 
-6 agents. 9 skills. Each one handles a single job:
-- Lead qualifier scores inbound leads
-- Outreach writer generates specific cold messages
-- Proposal writer turns a 5-line brief into a full proposal
-- Campaign manager runs email campaigns
-- Audit agent reviews Klaviyo setups
+Email 3 at 72 hours: a 10 percent offer with a 48-hour expiry.
 
-I structured it this way because every agent should own exactly one function. That is DevOps thinking applied to marketing.
+Recovery rate went to 19 percent within the first 30 days.
 
-What would you automate first if you could build your own agent?
+The previous flow wasn't wrong. It was incomplete.
 
-#AIMarketing #ClaudeAI #MarketingAutomation #Klaviyo #ShopifyMarketing
+If your abandoned cart flow is one email, you are probably leaving 10 to 15 percent of your potential recovery on the table.
+
+What does your abandoned cart sequence look like right now?
+
+#Klaviyo #EmailMarketing #AbandonedCart #ShopifyMarketing #eCommerce
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: Clean dark background with white text showing the 6 agent names as a structured list with the aimarketer-system GitHub repo name at the top. Minimal, developer-aesthetic design.
+VISUAL DESCRIPTION: Side-by-side comparison graphic: "Before - 1 email / 6% recovery" on the left in red, "After - 3 emails / 19% recovery" on the right in green. Bold numbers, clean dark background. Subtitle: "This is what a complete abandoned cart sequence looks like."
 VISUAL TOOL: Canva
 
 ---
@@ -42,32 +42,30 @@ VISUAL TOOL: Canva
 DAY: Tuesday, June 2 2026
 PLATFORM: LinkedIn
 PILLAR: Educator
-HOOK: ChatGPT and Claude AI are not the same tool. Using them interchangeably is costing you.
-MICRO-STORY: A client showed me her workflow last month. She was using ChatGPT to write her email sequences, regenerating the same prompt 6 times hoping it would get better. I asked her: have you tried Claude? She had not. She thought they were the same.
+HOOK: Most abandoned cart flows I audit have the same problem: one email, wrong timing, and no angle variation across the sequence.
+MICRO-STORY: A wellness brand I reviewed last quarter had their single abandoned cart email going out at 4 hours with a discount code. They were training buyers to abandon and wait for the offer. Their average order value was also dropping.
 POST BODY:
-ChatGPT and Claude AI are not the same tool. Using them interchangeably is costing you.
+Most abandoned cart flows I audit have the same problem: one email, wrong timing, and no angle variation across the sequence.
 
-A client showed me her workflow last month. She was using ChatGPT to write email sequences, regenerating the same prompt 6 times hoping for a better result.
+Here is the structure that actually works:
 
-I asked: have you tried Claude? She had not. She thought they were the same thing.
+Email 1 at 1 hour: Urgency and reminder. No discount yet. Just the product and a clear path back to checkout.
 
-Here is the difference for business automation:
+Email 2 at 24 hours: Handle the objection. Why do people hesitate? Reviews, returns policy, quality guarantee. Answer the question they didn't ask.
 
-Claude holds longer context. It can read your entire brand brief, your Klaviyo flow structure, and your voice guide - all at once - and stay consistent.
+Email 3 at 72 hours: If you use a discount, use it here. Include scarcity. Make the expiry real.
 
-Claude Code lets you build agents that run as co-workers inside your terminal, not just chatbots in a browser.
+Sending a discount in email 1 trains your buyers to abandon carts and wait for the offer.
 
-Claude follows structured instructions with more precision - critical for proposals, outreach, and audits.
+Each email needs a different reason to come back - not just a different subject line.
 
-ChatGPT is a great starting point. Claude is what you use when you need the system to work every time.
+Which of those three do you currently have in your abandoned cart flow?
 
-Have you used Claude for business automation yet?
-
-#ClaudeAI #AITools #MarketingAutomation #EmailMarketing #ShopifyMarketing
+#Klaviyo #AbandonedCart #EmailMarketing #ShopifyMarketing #eCommerce
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Carousel
-VISUAL DESCRIPTION: 3-slide carousel. Slide 1: "ChatGPT vs Claude for Business Automation" as the title. Slide 2: Claude strengths listed - long context, structured agents, precision. Slide 3: When to use each one with a simple two-column layout.
+VISUAL DESCRIPTION: 3-slide carousel. Slide 1: "The 3-Email Abandoned Cart Sequence." Slide 2-4: One email per slide showing timing, angle, and what to include. Clean Klaviyo flow-style layout with arrows between each step.
 VISUAL TOOL: Canva
 
 ---
@@ -75,80 +73,65 @@ VISUAL TOOL: Canva
 DAY: Wednesday, June 3 2026
 PLATFORM: LinkedIn
 PILLAR: Behind the scenes
-HOOK: This is what my VS Code terminal actually looks like during a build session.
-MICRO-STORY: It was 11pm in Benoni and I had three terminal tabs open - one running my agent, one watching the output folder, one checking errors. My husband walked past and said "is that code?" I said "it's marketing." He laughed. I did not stop typing.
+HOOK: When I take over a new Klaviyo account, I do the same 5 checks before I touch anything.
+MICRO-STORY: The first account I took over without a structured audit process cost me two weeks. I started building new flows before I understood the existing setup. I duplicated work, broke a live flow, and had to roll back changes. Now I audit before I act - every time.
 POST BODY:
-This is what my VS Code terminal actually looks like during a build session.
+When I take over a new Klaviyo account, I do the same 5 checks before I touch anything.
 
-11pm in Benoni. Three terminal tabs open.
+1. Flow health: which flows are live, which are draft, and which are off when they should be on.
 
-One running my agent. One watching the output folder. One checking errors.
+2. List quality: suppression rate, unengaged percentage, and when the list was last cleaned.
 
-My husband walked past and said "is that code?"
+3. Segment structure: is there any segmentation beyond default lists, or is every campaign going to everyone?
 
-I said: "It's marketing." He laughed. I did not stop typing.
+4. Campaign history: what was sent in the last 90 days, to which segments, and what were the open and click rates?
 
-Here is what a real Claude Code session looks like:
+5. Revenue attribution: is Klaviyo tracking and attributing correctly against Shopify orders?
 
-- I open VS Code and load the aimarketer-system repo
-- I run the agent from the terminal using the Claude Code CLI
-- The agent reads a brief from the inputs folder
-- Output appears in /outputs as a formatted .md file in under 2 minutes
-- I review, edit lightly, and it is ready
+These 5 checks take about 90 minutes. They prevent 10 hours of mistakes.
 
-No drag-and-drop. No browser plugins. Just a terminal, a brief, and a system that delivers.
+What does your Klaviyo onboarding process look like when you start a new account?
 
-Most people think AI marketing looks like clicking buttons in a fancy dashboard. Mine looks like a dev environment with a very specific output.
-
-What does your AI workflow look like?
-
-#ClaudeCode #MarketingAutomation #BehindTheScenes #AIMarketing #BuildingInPublic
+#Klaviyo #EmailMarketing #KlaviyoAudit #FreelanceMarketing #ShopifyMarketing
 
 VISUAL REQUIRED: Yes
-VISUAL TYPE: Screen recording
-VISUAL DESCRIPTION: A 30-60 second screen recording of VS Code open with the terminal running - showing the agent being invoked and output appearing in the /outputs folder. No audio needed. Speed up the middle, slow down the output moment.
-VISUAL TOOL: Screen recording
+VISUAL TYPE: Static image
+VISUAL DESCRIPTION: Clean numbered list graphic titled "5 Things I Check Before Touching a New Klaviyo Account" with the 5 items listed in order. Dark background, clear bold text. A small Klaviyo-style icon next to each item.
+VISUAL TOOL: Canva
 
 ---
 
 DAY: Thursday, June 4 2026
 PLATFORM: LinkedIn
 PILLAR: Proof
-HOOK: 13 campaign emails. Under 20 minutes. One agent. Here is the output.
-MICRO-STORY: I built the campaign manager agent on a Thursday. By Friday morning I ran it for the first time on a real brief. I was not expecting much - maybe 4 or 5 usable emails. It gave me 13. I sat there and just looked at the screen.
+HOOK: A Shopify fitness brand's abandoned cart recovery went from 6 percent to 19 percent in 30 days. Here is exactly what changed.
+MICRO-STORY: The account had one abandoned cart email sending at 4 hours post-abandonment. Average subject line. No social proof. No follow-up. The brand had over 2,000 abandoned carts per month. The math on what that single flow was failing to recover was painful.
 POST BODY:
-13 campaign emails. Under 20 minutes. One agent. Here is the output.
+A Shopify fitness brand's abandoned cart recovery went from 6 percent to 19 percent in 30 days. Here is exactly what changed.
 
-I built the campaign manager agent on a Thursday. By Friday morning I ran it on a real brief.
+Before: 1 email at 4 hours. 6 percent recovery. 2,000+ abandoned carts per month.
 
-I was not expecting much. Maybe 4 or 5 usable emails.
+Changes made:
 
-It gave me 13.
+Email 1 rebuilt with product image, customer rating, and a single bold CTA. Timing moved to 1 hour.
 
-I sat there and looked at the screen for a solid 30 seconds.
+Email 2 added at 24 hours: 3 reviews specific to the abandoned product, returns policy, and a "why customers love this" section.
 
-Here is what the campaign manager agent produced:
-- 3 welcome sequence emails
-- 4 abandoned cart recovery emails
-- 2 post-purchase upsell emails
-- 2 win-back emails
-- 2 promotional campaign emails
+Email 3 added at 72 hours: 10 percent offer with a real 48-hour expiry.
 
-All with subject lines, preview text, and body copy. All formatted in Markdown, saved to /outputs with a timestamp.
+After: 19 percent recovery. Same traffic. Same products. Same price.
 
-Manually, that is 6-8 hours of writing.
+The difference was a complete sequence with a different reason to return in each email.
 
-With the agent: 18 minutes.
+At 2,000 abandoned carts per month, that 13-point lift means roughly 260 more recovered orders monthly.
 
-The brief was 7 lines. The output was production-ready.
+What is your current abandoned cart recovery rate?
 
-What would you do with 6 extra hours this week?
-
-#MarketingAutomation #EmailMarketing #ClaudeAI #Klaviyo #AIMarketing
+#Klaviyo #AbandonedCart #EmailMarketing #eCommerce #ShopifyMarketing
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: Screenshot of the /outputs folder showing the generated .md file with a timestamp, or a clean designed graphic showing "13 emails / 18 minutes / 1 agent" in large bold text on a dark background.
+VISUAL DESCRIPTION: Bold before/after stat graphic: "6% recovery" in red on the left with "1 email" below it. Arrow pointing right. "19% recovery" in green on the right with "3 emails" below it. Large numbers, dark background. Subtitle: "30 days. Same traffic. Same products."
 VISUAL TOOL: Canva
 
 ---
@@ -156,38 +139,28 @@ VISUAL TOOL: Canva
 DAY: Friday, June 5 2026
 PLATFORM: LinkedIn
 PILLAR: Client-focused
-HOOK: You are posting 3 times a week and still getting zero inbound leads. I know why.
-MICRO-STORY: I spoke to a Shopify founder in the wellness space last month. She was posting consistently, had good engagement, had a Klaviyo account set up. But no one was booking calls. She was exhausted. I asked her one question: what happens after someone clicks your link in bio?
+HOOK: If your abandoned cart flow is one email, you are not recovering carts. You are politely reminding people who already decided not to buy.
+MICRO-STORY: I have audited over a dozen Klaviyo accounts in the last 6 months. More than half had either one abandoned cart email or no abandoned cart flow at all. The brands that had three emails were recovering 4 to 5 times more carts than the ones with one.
 POST BODY:
-You are posting 3 times a week and still getting zero inbound leads. I know why.
+If your abandoned cart flow is one email, you are not recovering carts. You are politely reminding people who already decided not to buy.
 
-I spoke to a Shopify founder in the wellness space last month. Posting consistently. Good engagement. Klaviyo account set up.
+One reminder email does not change a buying decision. Three emails - each with a different angle - can.
 
-But no one was booking calls. She was exhausted.
+The problem is not that your product is wrong or your price is too high. The problem is that you stopped the conversation after the first message.
 
-I asked her one question: what happens after someone clicks your link in bio?
+People abandon carts for different reasons. Some needed more time. Some had a question about shipping. Some were waiting to see if a discount would appear.
 
-She did not know.
+A 3-email sequence answers all three situations.
 
-That is the problem. The content is working. The system after the click is broken.
+If you have not reviewed your abandoned cart setup recently, open Klaviyo right now and check two things: how many emails are in the flow, and what your current recovery rate is.
 
-Here is what was missing:
-- No welcome sequence to convert subscribers into buyers
-- No abandoned cart flow - 70% of her carts were abandoned
-- No post-purchase email to generate repeat orders
-- No lead magnet connected to her link in bio
+The benchmark for a well-built abandoned cart sequence is 15 to 20 percent recovery. Where are you?
 
-Posting is the top of the funnel. The money is in what you built below it.
-
-If your content is working but sales are not coming - your back-end automation is the issue.
-
-What does your post-click system look like right now?
-
-#Klaviyo #EmailMarketing #ShopifyMarketing #eCommerce #MarketingAutomation
+#Klaviyo #AbandonedCart #EmailMarketing #ShopifyMarketing #DTCBrands
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Carousel
-VISUAL DESCRIPTION: 4-slide carousel titled "Why content isn't converting to sales." Each slide covers one missing piece: welcome sequence, abandoned cart, post-purchase, lead magnet. Clean brand colors, bold headers.
+VISUAL DESCRIPTION: 3-slide carousel. Slide 1: "Why your 1-email abandoned cart flow isn't enough." Slide 2: "3 reasons people abandon - and which email addresses each one." Slide 3: "Benchmark: 15-20% recovery. Where is yours?" Clean stat-heavy design.
 VISUAL TOOL: Canva
 
 ---
@@ -195,36 +168,30 @@ VISUAL TOOL: Canva
 DAY: Saturday, June 6 2026
 PLATFORM: LinkedIn
 PILLAR: Saturday
-HOOK: I started building a career in AI marketing with no degree in AI. Here is what actually worked.
-MICRO-STORY: Two years ago I was a DevOps engineer who knew Klaviyo. That combination felt random. Nobody was hiring for "DevOps + email marketing." I could not find a job title that fit me. So I stopped looking for one and started building the role myself.
+HOOK: Two years ago I was a DevOps engineer who happened to know Klaviyo. Today I work with Shopify brands across three continents as a certified Klaviyo specialist.
+MICRO-STORY: The path wasn't linear. There was a period where I was applying for traditional email marketing roles and not getting past the first round because I didn't have a dedicated email portfolio. So I built one - on real client accounts, with real results.
 POST BODY:
-I started building a career in AI marketing with no degree in AI. Here is what actually worked.
+Two years ago I was a DevOps engineer who happened to know Klaviyo. Today I work with Shopify brands across three continents as a certified Klaviyo specialist.
 
-Two years ago I was a DevOps engineer who knew Klaviyo. That combination felt random.
+The path wasn't linear.
 
-Nobody was hiring for "DevOps + email marketing." I could not find a job title that fit me.
+I built my Klaviyo career the same way I build email flows: start with what you have, add what's missing, and measure what changes.
 
-So I stopped looking for one and started building the role myself.
+What I started with: DevOps skills, Klaviyo experience, and no formal email marketing portfolio.
 
-Here is what actually moved the needle:
+What I added: real client accounts, Klaviyo advanced certification, and a Python-based system that makes my work faster and more consistent than any manual process.
 
-1. I picked one tool - Claude AI - and went deep, not wide
-2. I built real systems on GitHub instead of just taking courses
-3. I documented everything publicly on LinkedIn
-4. I started calling myself a specialist before anyone else did
-5. I took the first client while still figuring it out
+What changed: clients who could see the results before they booked the call.
 
-The career did not exist. I built it.
+If you are building a career in email marketing or Klaviyo right now - you do not need a perfect CV. You need a portfolio that shows the before and the after.
 
-If you are in a transition right now - from traditional marketing, from tech, from something completely different - the path is not a straight line. It is a series of specific decisions made before you feel ready.
+What is the most useful thing you did early in your career that nobody told you to do?
 
-What is one specific decision you are sitting on right now?
-
-#CareerInAI #AIMarketing #BuildingInPublic #MarketingCareer #LinkedInTips
+#Klaviyo #EmailMarketing #CareerInMarketing #FreelancingLife #BuildingInPublic
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: A portrait photo of Ifeoma at her desk working, or a designed graphic with the 5 steps listed in a numbered list on a warm-toned background. Feels personal, not corporate.
+VISUAL DESCRIPTION: Simple timeline graphic: "DevOps engineer" on the left, arrow pointing right through "First Klaviyo client", "Klaviyo certification", "Built AI systems", to "Klaviyo specialist" on the right. Clean, personal, professional.
 VISUAL TOOL: Canva
 
 ---
@@ -232,38 +199,34 @@ VISUAL TOOL: Canva
 DAY: Sunday, June 7 2026
 PLATFORM: LinkedIn
 PILLAR: Sunday
-HOOK: There was a week in March when nothing was working. No clients. No responses. Just silence.
-MICRO-STORY: I remember sitting at my desk in Benoni on a Tuesday evening, output folder full of proposals that had gone nowhere. I opened my Bible and landed on Galatians 6:9: "Let us not become weary in doing good, for at the proper time we will reap a harvest." I closed the laptop and went to pray.
+HOOK: There was a month where every proposal I sent went unanswered. I kept sending them anyway.
+MICRO-STORY: March of last year. Twelve proposals. Zero replies. I was doing the work - the research, the personalised briefs, the follow-ups. Nothing was landing. I sat at my desk one evening and genuinely considered stopping. Then I opened my Bible.
 POST BODY:
-There was a week in March when nothing was working. No clients. No responses. Just silence.
+There was a month where every proposal I sent went unanswered. I kept sending them anyway.
 
-I sat at my desk on a Tuesday evening, output folder full of proposals that had gone nowhere.
+Twelve proposals. Zero replies. The research was good. The briefs were specific. The follow-ups were sent.
 
-I opened my Bible and landed on Galatians 6:9:
+Nothing.
 
-"Let us not become weary in doing good, for at the proper time we will reap a harvest."
+I sat at my desk one evening and thought about stopping. Then I read Galatians 6:9: "Let us not become weary in doing good, for at the proper time we will reap a harvest."
 
-I closed the laptop and went to pray.
+I kept going.
 
-That week taught me something about consistency:
+The next month: three replies in one week. Two became clients.
 
-God does not reward sprints. He rewards faithfulness.
+Consistency in quiet seasons is not stubbornness. It is faithfulness.
 
-Showing up on day 47 when day 1 felt better. Writing the post when nobody liked the last one. Sending the proposal when the previous three were ignored.
+You will not always see the result of the work you are doing today. That does not mean the work is not building something.
 
-That is not stubbornness. That is faith with work attached to it.
+Keep showing up. Even when the month feels quiet.
 
-The harvest comes. Not always in the timing we planned. But it comes.
+Happy Sunday. Rest well.
 
-If you are in a quiet season right now - keep building. Keep showing up. The breakthrough is not cancelled. It is just not here yet.
-
-Wishing you a peaceful Sunday. Rest well.
-
-#Faith #SundayReflection #BuildingInPublic #ChristianEntrepreneur #Gratitude
+#Faith #SundayReflection #ChristianEntrepreneur #ConsistencyMatters #Klaviyo
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: Warm, soft background - cream or soft gold - with Galatians 6:9 in clean serif font centered on the image. Simple and peaceful. No clutter.
+VISUAL DESCRIPTION: Warm cream or soft gold background. Galatians 6:9 in clean serif font. No clutter. Simple and peaceful. Easy to save and share.
 VISUAL TOOL: Canva
 
 ---
@@ -271,38 +234,32 @@ VISUAL TOOL: Canva
 DAY: Monday, June 8 2026
 PLATFORM: LinkedIn
 PILLAR: Builder
-HOOK: I built an agent that automatically scores Shopify brands before I talk to them.
-MICRO-STORY: I used to spend 45 minutes researching a lead before a discovery call - checking their Klaviyo setup, Instagram, their store - only to find out 20 minutes into the call they did not have a marketing budget. That happened three times in one month. So I built something to fix it.
+HOOK: A skincare brand's welcome series was one email. The same generic "welcome to our community" going to every new subscriber regardless of where they came from.
+MICRO-STORY: Doesn't matter if you signed up through the pop-up after browsing serums, through the Instagram bio link, or through a paid ad for their new product launch - everyone got the same email with a 10 percent code and a brand story paragraph.
 POST BODY:
-I built an agent that automatically scores Shopify brands before I talk to them.
+A skincare brand's welcome series was one email. The same generic "welcome to our community" going to every new subscriber regardless of where they came from.
 
-I used to spend 45 minutes researching a lead before a discovery call. Checking Klaviyo setup. Checking Instagram. Checking store traffic.
+I rebuilt it into 3 source-specific welcome journeys.
 
-Then 20 minutes into the call I would find out they had no marketing budget.
+Pop-up subscribers: product education series starting with what their bestseller does and why.
 
-That happened three times in one month.
+Instagram traffic: social proof first - UGC, reviews, real customer photos.
 
-So I built the lead qualifier agent.
+Paid ad subscribers: offer-led - acknowledge what they were promised in the ad and deliver it immediately.
 
-Here is how it works:
-- I feed it a brand name and a URL
-- It asks 7 scoring questions across 3 categories: email readiness, social presence, and budget signals
-- It returns a score out of 100 with a recommendation: proceed, nurture, or pass
-- Output saves to /outputs in under 90 seconds
+Each journey is 4 emails over 5 days. Consistent enough to build trust. Frequent enough to stay in the buying window.
 
-Brands scoring 70+ go into my proposal pipeline immediately.
-Brands scoring 40-69 go into a nurture sequence.
-Below 40: politely passed.
+Within 60 days, welcome series attributed revenue increased by 34 percent compared to the same period the prior year.
 
-I now qualify 10 leads in the time it used to take to qualify 1.
+Segmenting by source is not complicated. It is just one extra step when building the flow.
 
-What would you automate in your sales process if you could?
+Are all your subscribers going through the same welcome journey right now?
 
-#LeadGeneration #AIMarketing #ClaudeAI #SalesAutomation #ShopifyMarketing
+#Klaviyo #WelcomeSeries #EmailMarketing #ShopifyMarketing #eCommerce
 
 VISUAL REQUIRED: Yes
-VISUAL TYPE: Static image
-VISUAL DESCRIPTION: A clean designed graphic showing the three scoring tiers - 70+ Proceed, 40-69 Nurture, Below 40 Pass - on a dark background with clear color coding (green, yellow, red). Bold and easy to read.
+VISUAL TYPE: Carousel
+VISUAL DESCRIPTION: 3-slide carousel showing the 3 source-specific welcome journeys. Slide 1: Pop-up subscribers - education first. Slide 2: Instagram traffic - social proof first. Slide 3: Paid ad subscribers - offer delivery first. Clean flow diagram per slide.
 VISUAL TOOL: Canva
 
 ---
@@ -310,37 +267,32 @@ VISUAL TOOL: Canva
 DAY: Tuesday, June 9 2026
 PLATFORM: LinkedIn
 PILLAR: Educator
-HOOK: Most Shopify stores have an abandoned cart flow. Most of them are wrong.
-MICRO-STORY: I audited a Klaviyo account last quarter for a wellness brand doing about R200,000 a month. They had 4 active flows. The abandoned cart email was sending 1 hour after abandonment - and it was one email. One. I looked at their flow analytics and saw R47,000 in missed revenue sitting there.
+HOOK: Batch blasting your entire Klaviyo list every week is not email marketing. It is deliverability suicide.
+MICRO-STORY: A DTC apparel brand came to me with a 12 percent open rate and a 3.8 percent spam complaint rate. They had been sending every campaign to their full 38,000-person list for 18 months. Every week. No segmentation. No engagement filters.
 POST BODY:
-Most Shopify stores have an abandoned cart flow. Most of them are wrong.
+Batch blasting your entire Klaviyo list every week is not email marketing. It is deliverability suicide.
 
-I audited a Klaviyo account for a wellness brand doing R200,000 a month. They had 4 active flows. The abandoned cart email sent 1 hour after abandonment. One email. One.
+A DTC apparel brand came to me with a 12 percent open rate on their campaigns. They had been sending to their full 38,000-person list every week for 18 months. No segmentation. No engagement filters.
 
-I looked at their analytics and saw R47,000 in missed revenue sitting there unrecovered.
+Here is what that does over time:
 
-Here is how Klaviyo flows actually work:
+Gmail, Apple Mail, and Outlook track engagement signals per sender. Low open rates and high non-opens tell inbox providers you are sending irrelevant content. You get filtered to promotions or spam.
 
-Abandoned cart alone is not a strategy. It is one piece of a system.
+Once you are in spam, even your engaged subscribers stop seeing you.
 
-What you actually need:
-- Email 1: 1 hour after abandonment - urgency, simple reminder
-- Email 2: 24 hours later - social proof, reviews, address objection
-- Email 3: 48-72 hours later - offer or scarcity if needed
+The fix: only send campaigns to your engaged segment. Define engaged as opened or clicked in the last 90 to 120 days. Clean the rest into a sunset flow.
 
-Then connect it to your post-purchase, your browse abandonment, and your win-back flow.
+Their open rate after 60 days of sending to engaged only: 31 percent.
 
-Each flow talks to a different moment in the buyer's journey.
+Same list. Same content. Smaller send group. Better results everywhere.
 
-If your Klaviyo has only one email in your abandoned cart sequence, you are leaving money in a very specific place.
+Are you still sending to your full list?
 
-Which flow do you think is your weakest right now?
-
-#Klaviyo #EmailMarketing #ShopifyMarketing #eCommerceMarketing #MarketingAutomation
+#Klaviyo #EmailDeliverability #EmailMarketing #ListSegmentation #ShopifyMarketing
 
 VISUAL REQUIRED: Yes
-VISUAL TYPE: Carousel
-VISUAL DESCRIPTION: 3-slide carousel. Slide 1: "The 3-Email Abandoned Cart Sequence" as title. Slides 2-4: one email per slide showing timing, angle, and what to include. Clean Klaviyo-style layout.
+VISUAL TYPE: Static image
+VISUAL DESCRIPTION: Bold comparison graphic: "Batch blast to 38K" with 12% open rate on the left in red. "Send to engaged 14K" with 31% open rate on the right in green. Dark background, large numbers, subtitle: "Smaller list. Better results."
 VISUAL TOOL: Canva
 
 ---
@@ -348,82 +300,70 @@ VISUAL TOOL: Canva
 DAY: Wednesday, June 10 2026
 PLATFORM: LinkedIn
 PILLAR: Behind the scenes
-HOOK: 7 agents. 14 skills. 26 scripts. This is what the femfit-marketing-system folder actually looks like.
-MICRO-STORY: I remember the moment I pushed the 26th script to GitHub. I sat back and thought: six months ago I was manually writing every email sequence in Notion. Now I have a system that runs the whole marketing function of a fitness brand. That transition did not happen in one day.
+HOOK: When a client sends me their Klaviyo login, there are 5 things that tell me immediately whether the account is healthy or a rebuild.
+MICRO-STORY: After auditing more than a dozen accounts, the patterns are clear. Healthy accounts look a specific way. Broken accounts have the same signs. I can usually tell within 15 minutes of accessing an account what the next 3 months of work will look like.
 POST BODY:
-7 agents. 14 skills. 26 scripts. This is what the femfit-marketing-system folder actually looks like.
+When a client sends me their Klaviyo login, there are 5 things that tell me immediately whether the account is healthy or a rebuild.
 
-Six months ago I was manually writing every email sequence in a Notion doc. Now I have a GitHub system that runs the entire marketing function of a fitness brand.
+Red flag signs I see in broken accounts:
 
-I pushed the 26th script and just sat back for a moment.
+1. All flows are in draft or off. The account was "set up" but never turned on properly.
 
-Here is the structure:
+2. The suppression list is over 20 percent of the total list. Nobody cleaned it. Nobody ran a sunset flow.
 
-/agents - 7 files, each handling one marketing function
-- campaign-manager, content-planner, email-writer, lead-qualifier, outreach-writer, seo-agent, social-media-agent
+3. Every campaign went to "All Subscribers." No segment in the campaign history at all.
 
-/skills - 14 reusable templates
-- Flows, sequences, audit summaries, content briefs
+4. The welcome series is one email. Or there is no welcome series.
 
-/scripts - 26 Python files using the Anthropic API
-- Each one callable from the terminal with a brief
+5. Revenue attribution in Klaviyo is zero or disconnected from Shopify.
 
-/outputs - every generated piece saved with timestamp
+When I see all five: the account needs a rebuild, not a patch.
 
-The design principle: one agent, one job. No overlap. No confusion.
+Healthy accounts have active flows, clean segments, managed suppression, and campaign history that shows a thoughtful send strategy.
 
-This is DevOps infrastructure applied to marketing operations.
+What does your Klaviyo account look like against this list?
 
-What part of your marketing workflow would benefit most from a system like this?
-
-#BuildingInPublic #AIMarketing #ClaudeCode #MarketingOperations #GitHub
+#Klaviyo #KlaviyoAudit #EmailMarketing #ShopifyMarketing #FreelanceMarketing
 
 VISUAL REQUIRED: Yes
-VISUAL TYPE: Screen recording
-VISUAL DESCRIPTION: A screen recording showing the GitHub repo folder structure - expanding /agents, /skills, /scripts, /outputs folders in sequence. Clean and minimal. No audio. 20-30 seconds.
-VISUAL TOOL: Screen recording
+VISUAL TYPE: Static image
+VISUAL DESCRIPTION: "Red Flag Klaviyo Account Checklist" - 5 items each with a red X indicator. Bold header. Clean dark background. Sub-headline: "If you have 3 or more of these - your account needs more than a patch."
+VISUAL TOOL: Canva
 
 ---
 
 DAY: Thursday, June 11 2026
 PLATFORM: LinkedIn
 PILLAR: Proof
-HOOK: A full client proposal - generated from a 5-line brief. Here is what the output actually looked like.
-MICRO-STORY: A Shopify wellness brand found me on Contra and sent me a brief that was barely a paragraph. Two sentences about what they needed, one about their budget, and a line about their timeline. Normally I would spend 3 hours building a proposal from that. I ran the proposal writer agent instead.
+HOOK: A beauty brand's welcome series had one email and a 2.1 percent attributed revenue rate. After a rebuild it hit 6.8 percent in 60 days.
+MICRO-STORY: One email. Generic subject line. 10 percent code. Brand story paragraph at the bottom. Going to every new subscriber regardless of how they found the brand. The email itself wasn't bad. The sequence around it didn't exist.
 POST BODY:
-A full client proposal - generated from a 5-line brief. Here is what the output actually looked like.
+A beauty brand's welcome series had one email and a 2.1 percent attributed revenue rate. After a rebuild it hit 6.8 percent in 60 days.
 
-A Shopify wellness brand found me on Contra and sent me a brief. Two sentences about what they needed. One about budget. One about timeline.
+Before: 1 email. Same journey for all subscribers. 2.1 percent of new subscribers made a purchase within 7 days.
 
-Normally: 3 hours of proposal writing.
+Rebuild:
 
-I ran the proposal writer agent instead.
+- Split by source: pop-up, Instagram, paid ads
+- 4 emails per journey over 5 days
+- Each email built trust before asking for the sale
 
-In 4 minutes, the output included:
-- Executive summary
-- 3 service packages with pricing tiers
-- Specific deliverables per package
-- Timeline breakdown
-- ROI projections based on their revenue stage
-- Next steps and booking link
+Email 1: specific to where they came from.
+Email 2: bestseller education and why it works.
+Email 3: reviews and real customer results.
+Email 4: offer - timed to when purchase intent is highest.
 
-Total words: 1,247. Time from brief to finished proposal: 4 minutes 22 seconds.
+After: 6.8 percent of new subscribers made a purchase within 7 days. More than 3x the previous rate.
 
-I reviewed it, made 3 small edits, and sent it.
+The list size did not change. The traffic did not change. The sequence changed.
 
-They replied within the hour.
+When did you last update your welcome series?
 
-The agent did not write a generic proposal. It read the brief, matched the offer to the brief, and built the structure.
-
-That is the difference between a prompt and a system.
-
-How long does it currently take you to write a client proposal?
-
-#ProposalWriting #AIMarketing #ClaudeAI #Freelancing #MarketingAutomation
+#Klaviyo #WelcomeSeries #EmailMarketing #ShopifyMarketing #eCommerce
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: Designed graphic with "5-line brief. 4 minutes. Full proposal." in large text. Below it: the 6 output sections listed in a clean numbered list. Dark background, white text.
+VISUAL DESCRIPTION: Before/after stat graphic: "2.1% purchase rate within 7 days" before in red. "6.8% purchase rate within 7 days" after in green. Subtitle: "60 days. Same list. Different sequence." Bold and clean.
 VISUAL TOOL: Canva
 
 ---
@@ -431,40 +371,30 @@ VISUAL TOOL: Canva
 DAY: Friday, June 12 2026
 PLATFORM: LinkedIn
 PILLAR: Client-focused
-HOOK: Your Klaviyo welcome series is quietly costing you sales every single week.
-MICRO-STORY: I reviewed a welcome series for a beauty brand last month. The first email welcomed the subscriber. The second email came 7 days later. In between: nothing. I asked the founder when she usually shops online. She said within the first 48 hours of finding a brand. She had not connected those two facts.
+HOOK: If your welcome series sends the same email to every new subscriber, you are treating a first-time buyer the same as someone who has been browsing for 3 weeks.
+MICRO-STORY: Someone who clicked a paid ad for your new product launch has a different intent than someone who signed up via a pop-up while browsing your blog. Sending them both to the same welcome flow means you're starting the wrong conversation with at least one of them.
 POST BODY:
-Your Klaviyo welcome series is quietly costing you sales every single week.
+If your welcome series sends the same email to every new subscriber, you are treating a first-time buyer the same as someone who has been browsing for 3 weeks.
 
-I reviewed a welcome series for a beauty brand last month. Email 1: Welcome message. Email 2: Arrives 7 days later. In between: nothing.
+Those are two different conversations.
 
-I asked the founder when she personally shops online.
+The subscriber from a paid ad already showed purchase intent. Start with the offer you promised. Do not make them sit through a brand story.
 
-She said: within 48 hours of finding a brand.
+The subscriber from a pop-up is browsing and curious. Start with education. Build trust before the ask.
 
-She had not connected those two facts.
+Klaviyo lets you split the welcome flow by source in under an hour. The emails can even be similar. The order and angle just need to match where the person is coming from.
 
-Here is what a welcome series should actually do:
+The result: higher engagement in the first 7 days, which signals to Gmail that your emails are worth reading.
 
-Day 0: Welcome - brand story, what makes you different, discount code if applicable
-Day 1: Social proof - your best reviews, before and after, results
-Day 2: Your bestseller - what to buy first and why
-Day 3: Objection handling - FAQ, returns, ingredients, sustainability
-Day 5: Last chance - urgency on the welcome offer
+If you have one welcome journey for everyone right now - that is the single highest-impact change you could make this week.
 
-That is 5 emails in 5 days. That is the buying window.
+Do you currently know how many of your welcome subscribers are converting to buyers?
 
-Most brands send 1 email and wait. Then wonder why their list is not converting.
-
-Your list is not the problem. Your sequence is.
-
-When did you last review your welcome series?
-
-#Klaviyo #EmailMarketing #ShopifyMarketing #eCommerce #WelcomeSeries
+#Klaviyo #WelcomeSeries #EmailMarketing #ShopifyMarketing #DTCBrands
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Carousel
-VISUAL DESCRIPTION: 5-slide carousel, one slide per welcome email day. Day 0 through Day 5 with purpose, subject line suggestion, and what to include on each. Clean timeline format.
+VISUAL DESCRIPTION: 2-slide carousel. Slide 1: "The wrong way" - one arrow from all sources to one welcome email. Slide 2: "The right way" - three sources (pop-up, Instagram, paid ad) splitting into three different welcome journeys. Clean flow diagram.
 VISUAL TOOL: Canva
 
 ---
@@ -472,34 +402,30 @@ VISUAL TOOL: Canva
 DAY: Saturday, June 13 2026
 PLATFORM: LinkedIn
 PILLAR: Saturday
-HOOK: Nobody told me that working remotely from South Africa would feel like this.
-MICRO-STORY: I remember the first time I joined a client call from my home office in Benoni and they asked where I was based. When I said South Africa, there was a pause. Then they said "oh wow." I had already delivered two pieces of work before that call. The location was never relevant to the output.
+HOOK: Working remotely from Benoni, South Africa as a Klaviyo specialist means your clients do not always know where you are. That has taught me something important about how work gets valued.
+MICRO-STORY: My first long-term client found me on Upwork. We worked together for 4 months before they asked where I was based. By then I had rebuilt their welcome series, cleaned their list, and tripled their abandoned cart recovery rate. The location was never the relevant detail.
 POST BODY:
-Nobody told me that working remotely from South Africa would feel like this.
+Working remotely from Benoni, South Africa as a Klaviyo specialist means my clients do not always know where I am. That has taught me something important about how work gets valued.
 
-First client call. They asked where I was based. I said South Africa. There was a pause.
+My first long-term client worked with me for 4 months before asking where I was based. By then I had rebuilt their welcome series, cleaned their list, and tripled their abandoned cart recovery.
 
-I had already delivered two pieces of work before that call. The location was never relevant to the output.
+The work spoke first.
 
-Here is what nobody tells you about working remotely from Africa:
+Remote work from Africa comes with real challenges: time zones, load shedding, connection issues. You build systems to compensate. You batch your work. You over-communicate asynchronously. You deliver before the deadline because you cannot rely on a stable real-time connection.
 
-The time zone gap is real. But it forces you to over-deliver asynchronously. Your work has to speak before you do.
+Those habits make you better at the work.
 
-The internet is not always stable. So you build backup systems. You batch your work. You learn to work offline when needed.
+Your location is not your professional story. Your results are.
 
-Imposter syndrome hits differently when you are building from the Global South. You question whether you belong in rooms that feel far away.
+If you are building a Klaviyo or email marketing career remotely from the continent - you are not behind. You are building different strengths.
 
-But the clients who work with me do not care where I am. They care that proposals arrive on time, systems work as promised, and results show up in the data.
+What has remote work taught you about how you actually work best?
 
-Your location is not your limitation. Your output is your passport.
-
-If you are also building a remote career from Africa - drop a comment. You are not behind. You are building from a different starting point.
-
-#RemoteWork #AfricanProfessionals #WorkingFromAfrica #FreelancingAfrica #BuildingInPublic
+#RemoteWork #AfricanProfessionals #Klaviyo #FreelancingAfrica #EmailMarketing
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: A photo of Ifeoma at her home office setup in Benoni, or a Gemini AI-generated image of a woman working at a desk with warm African light. Text overlay: "Your output is your passport."
+VISUAL DESCRIPTION: Gemini AI-generated image of a woman working at a desk with warm natural light coming through a window, with a clean laptop and focused expression. Text overlay: "Results travel further than location." Warm and real.
 VISUAL TOOL: Gemini AI
 
 ---
@@ -507,40 +433,34 @@ VISUAL TOOL: Gemini AI
 DAY: Sunday, June 14 2026
 PLATFORM: LinkedIn
 PILLAR: Sunday
-HOOK: I was building a system at midnight and I did not know if it would work. That is exactly what faith feels like.
-MICRO-STORY: It was a quiet Wednesday night. I had been debugging an agent for 3 hours. I could not see why it was failing. I had to push the output the next morning. I closed my eyes and said a short prayer - not for the code to work, but for the clarity to see what I was missing. Then I opened my eyes and found the error.
+HOOK: Building a freelance Klaviyo practice while managing client accounts is not a straight line. There are weeks where you question all of it.
+MICRO-STORY: I had a week in January where two clients gave feedback at the same time, a third went quiet on a proposal I thought was strong, and a flow I had built stopped triggering correctly in Klaviyo after a platform update. All in the same week.
 POST BODY:
-I was building a system at midnight and I did not know if it would work. That is exactly what faith feels like.
+Building a freelance Klaviyo practice while managing client accounts is not a straight line. There are weeks where you question all of it.
 
-Wednesday night. Debugging an agent for 3 hours. Could not find the error. Output due the next morning.
+January this year. Two rounds of feedback landing at once. A proposal going quiet. A flow breaking after a Klaviyo update.
 
-I closed my eyes and said a short prayer - not for the code to work, but for the clarity to see what I was missing.
+All in the same week.
 
-Opened my eyes. Found the error in 4 minutes.
+I remember sitting with it and thinking: this might not be for me.
 
-That quiet moment taught me something.
+Then I remembered Proverbs 3:5: "Trust in the Lord with all your heart and lean not on your own understanding."
 
-Faith is not about knowing the outcome. It is about trusting the process enough to keep going when you cannot see the answer.
+I fixed the flow. Incorporated the feedback. Followed up on the proposal.
 
-Building a business feels like this constantly.
+The client who went quiet came back three weeks later and signed.
 
-You are sending proposals without knowing which one will land.
-You are posting without knowing which one will connect.
-You are building systems before there is a client waiting for them.
+Trusting the process does not mean the process is comfortable. It means you keep doing the work even when you cannot see where it is going.
 
-That is faith in action.
-
-Proverbs 3:5 - "Trust in the Lord with all your heart and lean not on your own understanding."
-
-Rest today. Trust the process. The answer will come.
+Rest today. The difficult seasons build the skills that the easy ones cannot.
 
 Happy Sunday.
 
-#Faith #SundayReflection #ChristianEntrepreneur #BuildingInPublic #TrustTheProcess
+#Faith #SundayReflection #ChristianEntrepreneur #Klaviyo #FreelancingLife
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: Soft background - deep blue or midnight navy - with Proverbs 3:5 in white serif font. Simple, quiet, meditative. A small light source or candle graphic in one corner.
+VISUAL DESCRIPTION: Deep blue or midnight navy background. Proverbs 3:5 in white serif font. Quiet and meditative. Simple and easy to share.
 VISUAL TOOL: Canva
 
 ---
@@ -548,37 +468,32 @@ VISUAL TOOL: Canva
 DAY: Monday, June 15 2026
 PLATFORM: LinkedIn
 PILLAR: Builder
-HOOK: I built a proposal writer that takes a 5-line brief and returns a full client proposal. Here is how.
-MICRO-STORY: The brief that broke me was for a Shopify fashion brand. Four lines. No budget range. No timeline. Just "we need help with email marketing." I spent two hours building a proposal from almost nothing. When I sent it, they said it was too long. I thought: there has to be a better way to do this.
+HOOK: A wellness brand had no browse abandonment flow at all. Visitors were landing on product pages, spending time, and leaving without a trace in Klaviyo.
+MICRO-STORY: Their abandoned cart flow was set up - one email, but at least it existed. Browse abandonment: nothing. Every product page visitor who did not add to cart was leaving with zero follow-up. That is a significant segment of warm buyers being lost with no conversation started.
 POST BODY:
-I built a proposal writer that takes a 5-line brief and returns a full client proposal. Here is how.
+A wellness brand had no browse abandonment flow at all. Visitors were landing on product pages, spending time, and leaving without a trace in Klaviyo.
 
-A Shopify fashion brand sent me the vaguest brief I had ever received. Four lines. No budget. No timeline. Just "we need help with email marketing."
+I built the browse abandonment flow in one session.
 
-I spent 2 hours writing a proposal from almost nothing. They said it was too long.
+Trigger: viewed product page, did not add to cart within 2 hours.
 
-I thought: there has to be a better way.
+Email 1 at 2 hours: "Still thinking about [product name]?" - product image, one key benefit, and the reviews section.
 
-So I built the proposal writer agent.
+Email 2 at 24 hours: "Here is what people say after their first week" - social proof focus, answer the hesitation.
 
-Here is the structure:
-- Input: brand name, budget range, service needed, timeline, one key goal
-- The agent pulls from a context file of packages, pricing, and past results
-- It maps the brief to the closest service tier
-- It generates: summary, packages, deliverables, timeline, ROI estimate, CTA
-- Output: formatted .md file saved to /outputs in under 5 minutes
+The flow cannot include a discount because the visitor never committed to the cart. The goal is to restart the browsing conversation.
 
-The output length adjusts to the brief. Short brief gets a focused proposal. Detailed brief gets a full document.
+First 30 days: 312 emails sent. 11 percent clicked back to the product page. 4.2 percent made a purchase.
 
-I have not written a proposal from scratch in 3 months.
+From a flow that previously did not exist.
 
-What part of your client onboarding could be systematized like this?
+Does your Klaviyo account have a browse abandonment flow?
 
-#ProposalAutomation #AIMarketing #ClaudeCode #Freelancing #MarketingAutomation
+#Klaviyo #BrowseAbandonment #EmailMarketing #ShopifyMarketing #eCommerce
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: Flow diagram showing: 5-line brief goes in - arrow - proposal writer agent - arrow - full proposal .md output. Clean minimalist design with the 5 input fields listed on the left side.
+VISUAL DESCRIPTION: Flow diagram showing: "Product page visit" - "No add to cart" - "2 hour trigger" - "Email 1" - "24 hours" - "Email 2" with result stats (11% click-through, 4.2% purchase). Clean on dark background.
 VISUAL TOOL: Canva
 
 ---
@@ -586,40 +501,30 @@ VISUAL TOOL: Canva
 DAY: Tuesday, June 16 2026
 PLATFORM: LinkedIn
 PILLAR: Educator
-HOOK: The Claude Code workflow that changed how I work. Most marketers have not heard of it.
-MICRO-STORY: Before I found Claude Code I was doing everything in the browser. Typing the same prompt, copying the output, pasting it somewhere else, reformatting it. It worked. But every session started from zero. One day I read the Claude Code documentation and realized I had been using a hammer when I had a whole toolbox available.
+HOOK: Most DTC brands in Klaviyo have two segments: everyone, and buyers. That is not segmentation. That is a list with a filter on it.
+MICRO-STORY: An apparel brand I audited last month had their "VIP" segment defined as "placed an order at any point." That included a customer who bought once, two years ago, at a 50 percent discount during BFCM. That is not a VIP. That is a bargain hunter who probably will not buy again at full price.
 POST BODY:
-The Claude Code workflow that changed how I work. Most marketers have not heard of it.
+Most DTC brands in Klaviyo have two segments: everyone, and buyers. That is not segmentation. That is a list with a filter on it.
 
-Before Claude Code I was doing everything in the browser. Same prompt. Copy output. Paste somewhere. Reformat. Repeat.
+RFM segmentation - Recency, Frequency, Monetary - changes how you communicate with every part of your list.
 
-Every session started from zero.
+Recency: when did they last buy? Recent buyers convert differently than lapsed buyers.
 
-Then I read the documentation and realized I had been using a hammer when I had a whole toolbox.
+Frequency: how often do they buy? A 5-time buyer and a 1-time buyer need completely different messages.
 
-Here is the Claude Code workflow every automation marketer should know:
+Monetary: how much do they spend? High-value customers should be treated as VIPs. They respond differently to loyalty language.
 
-1. Install Claude Code CLI - runs in your terminal, not your browser
-2. Create a CLAUDE.md file - your persistent context, brand voice, rules, and agent instructions
-3. Build agents in .claude/agents/ - each one owns a single function
-4. Run agents from the terminal with a brief as input
-5. Output goes to /outputs automatically - formatted, timestamped, ready
+When you know where each subscriber sits on all three dimensions, you can send the right message to the right person instead of one campaign to everyone hoping it lands.
 
-What this gives you:
-- Context that persists across sessions
-- Agents that follow your exact rules every time
-- Output you can trust without rewriting from scratch
-- A system that works the same way on day 1 and day 100
+Klaviyo builds RFM segments natively. You do not need a third-party tool.
 
-This is not prompt engineering. This is infrastructure.
+Are you using RFM to structure your campaigns and flows?
 
-Have you tried Claude Code yet?
-
-#ClaudeCode #AITools #MarketingAutomation #AIMarketing #Productivity
+#Klaviyo #RFMSegmentation #EmailMarketing #eCommerce #ShopifyMarketing
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Carousel
-VISUAL DESCRIPTION: 5-slide carousel, one slide per step. Each slide has the step number large, the step name as the headline, and 2-3 lines of explanation. Dark background, clean sans-serif font.
+VISUAL DESCRIPTION: 3-slide carousel. Slide 1: "What RFM segmentation means for your Klaviyo list." Slides 2-4: One dimension per slide - Recency, Frequency, Monetary - with what each one means and how to use it in Klaviyo campaigns. Clean educational design.
 VISUAL TOOL: Canva
 
 ---
@@ -627,40 +532,30 @@ VISUAL TOOL: Canva
 DAY: Wednesday, June 17 2026
 PLATFORM: LinkedIn
 PILLAR: Behind the scenes
-HOOK: I have a checklist before I call any agent production-ready. Here is what is on it.
-MICRO-STORY: The first agent I shipped without proper testing was the outreach writer. It was generating messages that were technically correct but sounded like they came from a robot - polite, structured, and completely devoid of personality. A potential client replied to one of those messages and said "this feels automated." It was automated. But it should not have felt that way.
+HOOK: After a Klaviyo audit, the hardest part is not finding the problems. It is presenting them to a client who built the account themselves.
+MICRO-STORY: A founder had set up their own Klaviyo account over 18 months. When I walked them through what I found, it was clear they were proud of what they had built. The gaps were real and significant. But leading with "here is what is wrong" would have shut the conversation down immediately.
 POST BODY:
-I have a checklist before I call any agent production-ready. Here is what is on it.
+After a Klaviyo audit, the hardest part is not finding the problems. It is presenting them to a client who built the account themselves.
 
-The first agent I shipped without proper testing was the outreach writer.
+The audit report I use has three sections:
 
-It generated messages that were technically correct but sounded robotic. Polite. Structured. No personality.
+Section 1 - What is working. Every account has something good. I lead with it. Genuinely, not as a formality.
 
-A prospect replied: "this feels automated."
+Section 2 - What is underperforming. Specific metrics compared to benchmarks. Not opinions. Numbers.
 
-It was. But it should not have felt that way.
+Section 3 - Priority fixes. Three to five changes ranked by revenue impact. I do not give them a list of 20 things. I give them the three that will move the needle most in the next 30 days.
 
-Now every agent goes through this before it is production-ready:
+Leading with what works builds trust. Leading with benchmarks removes the personal element from the critique. Leading with priorities makes the next conversation about action, not defence.
 
-1. Does the output match the voice rules in CLAUDE.md?
-2. Does it avoid every banned word on my list?
-3. Is the output length appropriate - not too long, not too thin?
-4. Does it reference something specific from the brief - not a generic response?
-5. Would I be comfortable attaching my name to this without editing?
-6. Does it save correctly to /outputs with the right filename format?
-7. Run it 3 times on different briefs - does it stay consistent?
+The founder I mentioned? They became a long-term client. The audit became the start of an 8-month engagement.
 
-If it fails any of these: back to the system prompt.
+How do you handle delivering difficult findings to a client?
 
-Testing agents is not optional. It is the difference between a tool and a system.
-
-What is your quality check before you send AI-generated content?
-
-#AIMarketing #ClaudeCode #BuildingInPublic #AIAgents #QualityControl
+#Klaviyo #KlaviyoAudit #FreelanceMarketing #ClientWork #EmailMarketing
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: A clean numbered checklist graphic showing all 7 items. Checkboxes on the left, items on the right. Title: "Agent Production Checklist." Dark or deep green background.
+VISUAL DESCRIPTION: "Audit Report Structure" graphic with 3 labeled sections: "What is working" (green), "What is underperforming" (amber), "Priority fixes" (blue). Clean, professional report aesthetic. Subtitle: "This is the structure that keeps the conversation productive."
 VISUAL TOOL: Canva
 
 ---
@@ -668,44 +563,32 @@ VISUAL TOOL: Canva
 DAY: Thursday, June 18 2026
 PLATFORM: LinkedIn
 PILLAR: Proof
-HOOK: I ran my lead qualifier agent live. Here is the actual score it returned.
-MICRO-STORY: A Shopify fitness brand reached out to me through Contra last week. Before I replied, I ran them through my qualifier agent. I fed it their store URL, their Instagram handle, and a one-line description of what they were asking for. The output came back in 84 seconds. I looked at the score before I even opened their message properly.
+HOOK: A DTC apparel brand had an 18 percent open rate and a 3.8 percent spam complaint rate. After 8 weeks of list cleaning and segmented sending, open rates hit 34 percent and complaints dropped to 0.1 percent.
+MICRO-STORY: The account was sending to 38,000 subscribers every week. No segmentation. No engagement filter. They had been doing it for 18 months. By the time I accessed the account, their sender reputation was significantly damaged and they were landing in spam for a large portion of their list.
 POST BODY:
-I ran my lead qualifier agent live. Here is the actual score it returned.
+A DTC apparel brand had an 18 percent open rate and a 3.8 percent spam complaint rate. After 8 weeks, open rates hit 34 percent and complaints dropped to 0.1 percent.
 
-A Shopify fitness brand reached out to me through Contra last week. Before I replied, I ran them through my qualifier agent. Store URL. Instagram handle. One-line description.
+The account had 38,000 subscribers receiving every campaign. No segment filters. No engagement threshold.
 
-Output: 84 seconds.
+What I did:
 
-Here is what the score looked like:
+Week 1: Identified the engaged segment - opened or clicked in the last 90 days. That was 11,200 subscribers out of 38,000.
 
-LEAD QUALIFICATION REPORT
-Score: 74/100
-Recommendation: Proceed to proposal
+Week 2: Moved all campaigns to send to engaged only. The numbers looked worse on paper because fewer emails went out. Results improved immediately.
 
-Scoring breakdown:
-- Email readiness: 22/30 - Klaviyo installed, 2 basic flows active
-- Social presence: 28/30 - 12.4K Instagram followers, posts 4x per week
-- Budget signals: 24/40 - product range R400-R2,200
+Weeks 3 to 6: Ran a sunset flow to the 26,800 unengaged subscribers. Asked them to confirm they wanted to stay. 8 percent reengaged. The rest were suppressed.
 
-Key flags:
-- Abandoned cart flow exists but is 1 email only
-- No post-purchase sequence
-- Welcome series: 1 email, 6-day delay on second touch
+Week 7 onwards: Sending to a list of 14,000. Open rate 34 percent. Complaint rate 0.1 percent.
 
-Opportunity: strong social presence with weak email backend. High fit.
+Less email to more interested people outperforms more email to everyone. Every time.
 
-I sent the proposal that afternoon. They booked a discovery call the next morning.
+When did you last clean your Klaviyo list?
 
-The qualifier does not just score. It tells me exactly where to focus the proposal.
-
-What would a system like this do for your sales process?
-
-#LeadQualification #AIMarketing #ClaudeAI #SalesAutomation #ShopifyMarketing
+#Klaviyo #EmailDeliverability #ListCleaning #EmailMarketing #ShopifyMarketing
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: A clean mockup of the lead qualification report output - score prominently displayed as 74/100 with a color-coded bar, breakdown scores below, and recommendation highlighted in green. Formatted like a real report card.
+VISUAL DESCRIPTION: Before/after graphic: "38,000 subscribers / 18% open rate / 3.8% complaints" on the left in red. "14,000 subscribers / 34% open rate / 0.1% complaints" on the right in green. Bold numbers. Sub-headline: "8 weeks. Same content. Different strategy."
 VISUAL TOOL: Canva
 
 ---
@@ -713,36 +596,32 @@ VISUAL TOOL: Canva
 DAY: Friday, June 19 2026
 PLATFORM: LinkedIn
 PILLAR: Client-focused
-HOOK: The AI marketing stack every eCommerce founder needs in 2026. Most brands have half of it.
-MICRO-STORY: I had a conversation with a DTC founder at the end of last year. She had Shopify, Klaviyo, and Canva. She thought that was her tech stack. When I asked her what was doing the actual thinking - the strategy, the sequencing, the content planning - she said: "me, mostly." That is not a stack. That is a founder doing everything manually.
+HOOK: If you are sending every Klaviyo campaign to your full list, your open rates are probably below 20 percent and falling. That is not a content problem. That is a deliverability problem.
+MICRO-STORY: The most common thing founders say when I raise deliverability is "but we need to reach everyone." You are reaching everyone. Gmail is just not showing them your emails. Reaching the inbox of the engaged 30 percent of your list is worth more than reaching the spam folder of the full 100 percent.
 POST BODY:
-The AI marketing stack every eCommerce founder needs in 2026. Most brands have half of it.
+If you are sending every campaign to your full list, your open rates are probably below 20 percent and falling. That is not a content problem. It is a deliverability problem.
 
-A DTC founder told me her tech stack: Shopify, Klaviyo, Canva.
+Every unopen signals to inbox providers that your email was not worth reading.
 
-When I asked what was doing the thinking - strategy, sequencing, content planning - she said: "me, mostly."
+Over time, those signals move you out of the primary inbox - into promotions, then spam.
 
-That is not a stack. That is a founder doing everything manually with better-looking tools.
+By the time a brand notices the open rate has dropped significantly, the damage to sender reputation is already significant.
 
-Here is the actual AI marketing stack for 2026:
+The fix is not to stop emailing. It is to send to the right people.
 
-Foundation layer: Shopify and Klaviyo.
+Start here: in Klaviyo, create a segment of subscribers who have opened or clicked in the last 90 days. Send your next three campaigns to that segment only.
 
-Intelligence layer: Claude AI for proposals, briefs, outreach, and audits. Claude Code for agents that run your marketing operations.
+Watch what happens to your open rate.
 
-Content layer: Canva for designed graphics. Gemini AI for image generation. CapCut or Descript for video.
+Your full list will not disappear. Your engaged segment will respond better. Your sender reputation will recover.
 
-Analytics layer: Klaviyo built-in analytics for email revenue. Shopify analytics for conversion and AOV.
+What is your current campaign open rate?
 
-The brands winning right now are not the ones with the most tools. They are the ones where the tools talk to each other and a human sets the strategy.
-
-What is missing from your current stack?
-
-#AIMarketing #eCommerce #ShopifyMarketing #Klaviyo #MarketingTech
+#Klaviyo #EmailDeliverability #EmailMarketing #ShopifyMarketing #DTCBrands
 
 VISUAL REQUIRED: Yes
-VISUAL TYPE: Carousel
-VISUAL DESCRIPTION: 4-slide carousel showing each layer of the stack with the tool logos and their function. Slide 1: Full stack overview. Slides 2-4: Each layer in detail. Clean infographic style.
+VISUAL TYPE: Static image
+VISUAL DESCRIPTION: "Is your open rate below 20%?" in large bold text at the top. Below it: "This is a deliverability problem, not a content problem." Bottom: a simple 3-step fix shown as a numbered list. Dark background, clear call-to-action design.
 VISUAL TOOL: Canva
 
 ---
@@ -750,40 +629,30 @@ VISUAL TOOL: Canva
 DAY: Saturday, June 20 2026
 PLATFORM: LinkedIn
 PILLAR: Saturday
-HOOK: Early on, I made a mistake that cost me two clients. I called myself a marketer instead of a specialist.
-MICRO-STORY: My first Upwork profile said "I help businesses with digital marketing and automation." It was accurate. It was also invisible. I was competing with 10,000 people who said the same thing in different fonts. I remember a client sending me a message that said "why should I pick you over the others?" and I did not have a clean answer.
+HOOK: When I started positioning myself as a Klaviyo specialist, my proposal conversion rate doubled. Here is what changed in how I presented myself.
+MICRO-STORY: Before the reposition, my Upwork profile said I helped businesses with email marketing and automation. Every proposal felt like I was competing on price with 200 other freelancers. The day I rewrote my positioning to name exactly who I serve and exactly what I deliver, the right clients started finding me.
 POST BODY:
-Early on, I made a mistake that cost me two clients. I called myself a marketer instead of a specialist.
+When I started positioning myself as a Klaviyo specialist, my proposal conversion rate doubled. Here is what changed.
 
-My first Upwork profile: "I help businesses with digital marketing and automation."
+Before: "Email marketing and automation freelancer." Accurate. Invisible. Every proposal was a price competition.
 
-Accurate. Also invisible. Competing with 10,000 people saying the same thing.
+After: "Klaviyo specialist for Shopify and DTC brands. Certified. Focused exclusively on building and optimising Klaviyo accounts for eCommerce revenue."
 
-A client asked: "why should I pick you over the others?"
+The specificity did two things:
 
-I did not have a clean answer. That question changed everything.
+It filtered out the wrong clients immediately. If you do not use Klaviyo or Shopify, my profile tells you I am not the right fit. That saves both of us time.
 
-Here is how I repositioned:
+It signalled expertise to the right clients. A brand already using Klaviyo knows what a specialist looks like. Generalists do not call themselves Klaviyo specialists.
 
-1. I named my specific combination: DevOps background plus Klaviyo expertise plus Claude AI systems. Nobody else had that exact stack.
+The crowded market for email marketers is real. The market for certified Klaviyo specialists who work exclusively with Shopify brands is much smaller.
 
-2. I named my specific client: Shopify brands doing R50K-R500K a month with an email list they are not maximizing.
+What specific positioning have you been sitting on that you have not put in your profile yet?
 
-3. I named my specific output: systems that run marketing functions, not just advice on how to do it.
-
-4. I stopped trying to appeal to everyone and started speaking directly to one type of founder.
-
-The moment I got specific, the right clients started recognizing themselves in my content.
-
-Generalists compete on price. Specialists compete on fit.
-
-Which part of your work makes you specific in a way nobody else is combining?
-
-#PersonalBranding #Freelancing #LinkedInTips #AIMarketing #SpecialistNotGeneralist
+#Klaviyo #PersonalBranding #FreelancingLife #EmailMarketing #PositioningStrategy
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: Two-panel graphic. Left panel: vague positioning statement in grey. Right panel: specific positioning statement in bold white on dark background. Title at top: "Generalist vs Specialist positioning."
+VISUAL DESCRIPTION: Two-panel graphic: Left panel shows "Before" profile headline in grey - generic marketing language. Right panel shows "After" headline in bold white - specific Klaviyo specialist positioning. Clean contrast. Professional.
 VISUAL TOOL: Canva
 
 ---
@@ -791,36 +660,32 @@ VISUAL TOOL: Canva
 DAY: Sunday, June 21 2026
 PLATFORM: LinkedIn
 PILLAR: Sunday
-HOOK: I used to rush through my work. Then I read what the Bible actually says about excellence.
-MICRO-STORY: There was a period where I was producing a lot of output but skipping the review step. Proposals going out with small errors. Emails without proper testing. I was moving fast and calling it efficiency. One morning I read Colossians 3:23 during my quiet time and it stopped me completely: "Whatever you do, work at it with all your heart, as working for the Lord."
+HOOK: The work I am most proud of is not the campaigns that performed well. It is the ones I got right the second time after getting them wrong the first time.
+MICRO-STORY: A welcome series I built early in my Klaviyo career had a timing error that meant email 3 was sending before email 2 for subscribers in certain time zones. I did not catch it for 11 days. When I did, I fixed it, told the client, and rebuilt the flow with timezone-based sending enabled.
 POST BODY:
-I used to rush through my work. Then I read what the Bible actually says about excellence.
+The work I am most proud of is not the campaigns that performed well. It is the ones I got right the second time after getting them wrong the first time.
 
-There was a period where I was producing a lot but skipping the review step. Proposals with small errors. Emails without proper testing. Moving fast and calling it efficiency.
+A welcome series I built early in my career had a timing error. Email 3 was sending before email 2 for subscribers in certain time zones. I missed it for 11 days.
 
-One morning during my quiet time I read Colossians 3:23:
+I fixed it. Told the client immediately. Rebuilt the flow with timezone-based sending.
 
-"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."
+They kept working with me for another 7 months.
 
-Not for the client. Not for the deadline. Not for the invoice. For the Lord.
+Colossians 3:23: "Whatever you do, work at it with all your heart, as working for the Lord."
 
-That verse changed how I approach every single output.
+Working with your whole heart includes admitting the mistake and fixing it properly. Not hiding it. Not minimising it. Fixing it thoroughly and communicating clearly.
 
-Now my review checklist is not just a quality control step. It is an act of integrity.
+Excellence is not about never making errors. It is about how you respond when you do.
 
-When I slow down to get it right, I am not losing time. I am honoring the gift.
-
-Excellence is not perfectionism. It is intentionality. It is caring enough about your work to not rush it out the door before it is ready.
-
-Whatever you are building right now - do it with your whole heart. Not because someone is watching. Because someone always is.
+Whatever you are building this week - do it with your whole heart.
 
 Rest well today.
 
-#Faith #SundayReflection #ChristianEntrepreneur #Excellence #Colossians
+#Faith #SundayReflection #ChristianEntrepreneur #Klaviyo #Excellence
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: Colossians 3:23 in full on a warm parchment or cream background with a soft gold border. Clean, reverent, easy to save and share.
+VISUAL DESCRIPTION: Colossians 3:23 in full on a warm parchment background with a soft gold border. Clean serif font. Reverent. Easy to save and share.
 VISUAL TOOL: Canva
 
 ---
@@ -828,41 +693,30 @@ VISUAL TOOL: Canva
 DAY: Monday, June 22 2026
 PLATFORM: LinkedIn
 PILLAR: Builder
-HOOK: I built an outreach writer that checks for specificity before it sends. Here is why that matters.
-MICRO-STORY: I received a cold outreach message last year that said "Hi, I noticed your brand is doing great work in the space." I had posted a specific case study the week before about abandoned cart recovery. The sender had clearly not read it. I deleted the message before finishing the first sentence. That moment is why I built specificity checks into my outreach agent.
+HOOK: A Shopify supplement brand had 42 percent of their Klaviyo list completely unengaged. No sunset flow. No win-back sequence. They were sending weekly campaigns to all 42 percent and wondering why their open rate kept falling.
+MICRO-STORY: The account had 24,000 subscribers. Just over 10,000 had not opened or clicked a single email in more than 6 months. Every weekly campaign was going to them. Every non-open was damaging the sender reputation for the engaged 14,000.
 POST BODY:
-I built an outreach writer that checks for specificity before it sends. Here is why that matters.
+A Shopify supplement brand had 42 percent of their Klaviyo list unengaged. No sunset flow. No win-back. They were sending to all 42 percent every week.
 
-I got a cold message last year: "Hi, I noticed your brand is doing great work in the space."
+Here is what I built:
 
-I had posted a detailed case study the week before. The sender had not read it. I deleted the message before finishing the sentence.
+Win-back flow for subscribers inactive 90 to 180 days: 3 emails over 2 weeks. Subject lines designed to get one last open. "We miss you" angle with a reason to come back.
 
-That is why I built the outreach writer with a specificity check.
+Sunset flow for subscribers inactive over 180 days: 2 emails. Email 1 asks if they still want to receive emails. Email 2 is the last contact before suppression.
 
-Here is how it works:
+Result: 9 percent of the 10,000 unengaged subscribers reengaged. The rest were suppressed.
 
-Input required before the agent runs:
-- Brand name and URL
-- One specific thing I noticed about their store or content
-- The problem I think they have, with evidence
-- The specific outcome I can deliver
+The list went from 24,000 to 15,200. Open rate went from 14 percent to 28 percent in 45 days.
 
-The agent builds the message using those four inputs. It cannot produce a generic message because the inputs do not allow generic information.
+A smaller, cleaner list outperforms a large unmanaged one in every deliverability metric.
 
-Quality check built into the system:
-- Does the message reference something specific? If not, reject.
-- Does it avoid every banned word in CLAUDE.md? If not, rewrite.
-- Is it under 120 words? If not, trim.
+Do you have a sunset flow in your Klaviyo account?
 
-Outreach that works is specific. Outreach that fails is template-shaped.
-
-What is your current process for personalizing cold outreach?
-
-#ColdOutreach #AIMarketing #ClaudeCode #MarketingAutomation #BuildingInPublic
+#Klaviyo #EmailDeliverability #SunsetFlow #WinBack #EmailMarketing
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: Side-by-side comparison. Left: a generic outreach message with red X. Right: a specific, structured outreach message with green check. Both examples shown in message bubble format.
+VISUAL DESCRIPTION: "Before: 24,000 subscribers / 14% open rate. After: 15,200 subscribers / 28% open rate." Large clean stat graphic. Subtitle: "A cleaner list always outperforms a bigger one." Dark background.
 VISUAL TOOL: Canva
 
 ---
@@ -870,40 +724,34 @@ VISUAL TOOL: Canva
 DAY: Tuesday, June 23 2026
 PLATFORM: LinkedIn
 PILLAR: Educator
-HOOK: Most people use Claude as a chatbot. Here is how to use it as a co-worker instead.
-MICRO-STORY: I used to open Claude in a browser tab, type a prompt, get a result, and close the tab. Every session started from scratch. No memory of my brand voice, no memory of my client context, no memory of what I had already generated. It was useful but it was not a system. The shift happened the day I learned what CLAUDE.md actually does.
+HOOK: The subject line is not the most important part of an email. The segment is. But the subject line is the first thing that determines whether the rest of the email matters.
+MICRO-STORY: A brand I worked with was sending beautifully designed emails with well-written copy to their full list. Open rate: 14 percent. When I looked at the subject lines, every single one followed the same formula: "[Brand Name]: [benefit statement]." Predictable. Easy to ignore.
 POST BODY:
-Most people use Claude as a chatbot. Here is how to use it as a co-worker instead.
+The subject line determines whether anyone reads the email. Here is how to write them so people do.
 
-I used to open Claude in a browser, type a prompt, get a result, close the tab. Every session started from scratch. No memory of my voice, my clients, my outputs.
+I reviewed a brand's last 24 campaigns. Every subject line followed the same formula: "Brand Name: Benefit Statement." Open rate: 14 percent across the board.
 
-Useful. But not a system.
+Subject lines that work use these techniques:
 
-The shift happened when I understood CLAUDE.md.
+Specificity: "The serum 2,400 of you reordered this month" outperforms "Our bestselling serum."
 
-Here is the mindset change:
+Curiosity gap: "This is what your skin looks like 30 days in" outperforms "Results after 30 days."
 
-A chatbot answers questions. A co-worker knows your context, follows your rules, and produces consistent output.
+Pattern interruption: a lowercase subject line, a number in an unexpected place, or a question that assumes a context.
 
-To use Claude as a co-worker:
+Personal relevance: reference what the subscriber did. "You browsed this last week" is more compelling than "Back in stock."
 
-1. Write a CLAUDE.md file with your brand voice, banned words, output rules, and client context
-2. Structure your work into agents - each one owns a single job
-3. Give the agent a brief, not just a prompt - a brief has structure and context
-4. Review the output against your rules, not your mood
-5. Iterate on the system, not just the output
+Test your subject lines. Klaviyo's A/B test on campaigns is straightforward to use and shows you which approach your specific audience responds to.
 
-When Claude knows your context, your rules, and your output format - it stops being a tool and starts being part of the team.
+One subject line improvement on a 10,000-person send can mean hundreds more opens.
 
-That is the shift that changes everything.
+What formula do you currently use for your subject lines?
 
-Are you using Claude as a chatbot or a co-worker right now?
-
-#ClaudeAI #AITools #MarketingAutomation #ProductivityTips #AIMarketing
+#Klaviyo #SubjectLines #EmailMarketing #KlaviyoTips #ShopifyMarketing
 
 VISUAL REQUIRED: Yes
-VISUAL TYPE: Static image
-VISUAL DESCRIPTION: Two-panel graphic. "Chatbot mode" on the left showing a one-off prompt. "Co-worker mode" on the right showing persistent context, agents, and consistent output. Clean and simple comparison.
+VISUAL TYPE: Carousel
+VISUAL DESCRIPTION: 4-slide carousel. Slide 1: "Subject lines that get opened vs ones that get skipped." Slides 2-5: One technique per slide - Specificity, Curiosity gap, Pattern interruption, Personal relevance. Real before/after examples per slide.
 VISUAL TOOL: Canva
 
 ---
@@ -911,83 +759,63 @@ VISUAL TOOL: Canva
 DAY: Wednesday, June 24 2026
 PLATFORM: LinkedIn
 PILLAR: Behind the scenes
-HOOK: I run two GitHub repos while freelancing remotely. Here is my actual weekly workflow.
-MICRO-STORY: Someone asked me last week how I manage building two systems while also taking client work. I started explaining and realized my workflow sounded chaotic from the outside. It is not chaotic. It is just distributed. I have a rhythm that took me about 4 months to figure out. Here is what it actually looks like.
+HOOK: Managing 4 client Klaviyo accounts simultaneously used to mean 4 audit spreadsheets, 4 sets of notes, and a lot of context switching. I rebuilt my workflow so none of that is manual anymore.
+MICRO-STORY: Early in my freelance work, I was keeping client account notes in Google Docs, flow update logs in a separate Notion table, and deliverability benchmarks in a spreadsheet. Every client check-in required me to pull from 3 different places. I was spending 30 minutes preparing for every update call.
 POST BODY:
-I run two GitHub repos while freelancing remotely. Here is my actual weekly workflow.
+Managing 4 client Klaviyo accounts simultaneously used to mean 4 spreadsheets, 4 sets of notes, and constant context switching. I rebuilt that workflow.
 
-Someone asked me how I manage building two systems while taking client work. I started explaining and realized it sounded chaotic from the outside.
+Now when I open a client account, my system does the following:
 
-It is not. It just took 4 months to get right.
+The account health snapshot runs first - current open rate, recent campaign performance, flow status, list size trend. All pulled from Klaviyo's reporting. Formatted into a single brief automatically.
 
-Here is my actual week:
+The priority queue is updated: what flows need attention, what campaigns are scheduled, what segments need cleaning.
 
-Monday and Tuesday: agent builds and system updates.
-- Morning: open the repo, check what needs building or fixing
-- Afternoon: build one feature, test it, push to GitHub
-- Evening: LinkedIn content drafted for the week ahead
+The client update is drafted from the brief: what I did, what changed, and what I am working on next.
 
-Wednesday and Thursday: client delivery.
-- Proposals, email sequences, audits, Klaviyo builds
-- Agents run the first draft, I do the review and edit
+The preparation time for a client update call went from 30 minutes to 8 minutes. The call itself became more specific and more useful.
 
-Friday: admin and outreach.
-- Lead qualifier runs on new prospects
-- Outreach writer generates personalized messages
-- Profile updates on Contra and Upwork
+Building AI systems that support my Klaviyo work is not a shortcut. It is how I maintain quality across multiple accounts without anything falling through.
 
-Weekend: rest, reflection, content scheduling.
+How do you manage context across multiple client accounts?
 
-The key insight: building the system and serving clients are not separate activities. The system exists because of the client work. The client work improves because of the system. They feed each other.
-
-How do you structure your week when you are building and delivering at the same time?
-
-#FreelanceLife #BuildingInPublic #RemoteWork #AIMarketing #ProductivityTips
+#Klaviyo #FreelanceMarketing #EmailMarketing #AIMarketing #MarketingOperations
 
 VISUAL REQUIRED: Yes
-VISUAL TYPE: Static image
-VISUAL DESCRIPTION: A weekly calendar grid showing Monday through Sunday with the activity blocks filled in for each day. Clean, color-coded: blue for building, green for client work, orange for admin, white for rest.
-VISUAL TOOL: Canva
+VISUAL TYPE: Screen recording
+VISUAL DESCRIPTION: Short screen recording showing VS Code with the account health brief being generated in the terminal - showing a mock Klaviyo account summary appearing as formatted output. 20-30 seconds, no audio.
+VISUAL TOOL: Screen recording
 
 ---
 
 DAY: Thursday, June 25 2026
 PLATFORM: LinkedIn
 PILLAR: Proof
-HOOK: I ran the outreach writer live. Here is the actual output it produced.
-MICRO-STORY: I found a Shopify wellness brand on Instagram on a Thursday morning. Good content, 18K followers, posting consistently. I clicked the link in bio and their email sign-up went to a basic Mailchimp form - no automation, no flow. I knew exactly what they were missing. I ran the outreach writer agent with those specifics and had a message ready in under 3 minutes.
+HOOK: A Shopify brand had zero post-purchase flow. Every customer who bought received an order confirmation from Shopify and then silence from the brand.
+MICRO-STORY: When I pulled up the account, the only post-purchase automation was Shopify's default order confirmation. Nothing from Klaviyo. Every customer who bought - whether it was their first order or their fifth - went into the same silence after the transaction completed.
 POST BODY:
-I ran the outreach writer live. Here is the actual output it produced.
+A Shopify brand had zero post-purchase flow. After every order: Shopify confirmation, then silence.
 
-Thursday morning. I found a Shopify wellness brand on Instagram. 18K followers. Good content. Consistent posting.
+I built a 4-email post-purchase sequence.
 
-Clicked the link in bio: Mailchimp form. No automation. No Klaviyo. No flow.
+Email 1 (1 hour after purchase): Branded order confirmation with a "what to expect" message and customer support details. Sets the tone.
 
-I knew exactly what they were missing. Ran the outreach agent.
+Email 2 (3 days): Product education - how to get the most from what they bought. Reduces returns and increases satisfaction.
 
-Inputs: brand name and URL, specific observation, suspected problem with evidence, my specific offer.
+Email 3 (14 days): Review request with a direct link. Timed to when the customer has had a chance to use the product.
 
-Output in 2 minutes 47 seconds:
+Email 4 (30 days): Complementary product recommendation based on what they bought. One clear offer.
 
-"Hi [Name], I was looking at your brand this morning - your Instagram content is genuinely good and I can see why people follow you.
+Within 60 days, 22 percent of first-time buyers had placed a second order - compared to 9 percent in the same period prior year.
 
-One thing I noticed: your link in bio goes to a Mailchimp form with no automated follow-up. For a brand your size, that is likely R15,000-R30,000 in monthly recoverable revenue sitting uncaptured.
+The flow did not create demand. It met the customer at the right moment with the right message.
 
-I set up Klaviyo flows for Shopify brands - welcome series, abandoned cart, post-purchase. Takes 10 days. Happy to show you what a setup like yours typically recovers.
+Does your Klaviyo account have a post-purchase flow?
 
-Worth a quick call?"
-
-96 words. Specific. Direct. No buzzwords.
-
-That is what a system-built message looks like.
-
-Would you like me to break down how the agent was prompted?
-
-#ColdOutreach #AIMarketing #ClaudeAI #MarketingAutomation #Klaviyo
+#Klaviyo #PostPurchase #EmailMarketing #ShopifyMarketing #eCommerce
 
 VISUAL REQUIRED: Yes
-VISUAL TYPE: Static image
-VISUAL DESCRIPTION: A clean phone message bubble mockup showing the outreach message as it would appear in an inbox. Label it "Output: 2 min 47 sec" at the top. Clean, realistic, easy to read.
+VISUAL TYPE: Carousel
+VISUAL DESCRIPTION: 4-slide carousel, one email per slide. Each slide: email number, timing, purpose, and what to include. Flow-diagram style with arrows. Clean. Result stat on the final slide: "22% of first-time buyers placed a second order within 60 days."
 VISUAL TOOL: Canva
 
 ---
@@ -995,40 +823,34 @@ VISUAL TOOL: Canva
 DAY: Friday, June 26 2026
 PLATFORM: LinkedIn
 PILLAR: Client-focused
-HOOK: The 3 things DTC brands waste the most time on - and how to automate all of them.
-MICRO-STORY: I asked a Shopify founder what she spent the most time on each week that was not directly growing her business. She listed three things without hesitating: writing campaign emails from scratch, researching leads before calls, and writing proposals. All three. I had just built agents for all three. I remember the pause after I told her that.
+HOOK: If email is not generating 30 to 40 percent of your Shopify revenue, your Klaviyo account is not fully built. It might be installed - but it is not working.
+MICRO-STORY: A founder told me last month that their email list was "not really working." I asked what percentage of revenue was attributed to Klaviyo. She checked and it was 8 percent. She had 22,000 subscribers, an active account, and 4 flows. But the flows were underbuilt and the campaigns were going to everyone with no segmentation.
 POST BODY:
-The 3 things DTC brands waste the most time on - and how to automate all of them.
+If email is not generating 30 to 40 percent of your Shopify revenue, your Klaviyo account is not fully built.
 
-A Shopify founder told me the three things eating her week that were not directly growing her business:
+A founder told me her email list was "not really working." Klaviyo was showing 8 percent revenue attribution. 22,000 subscribers. 4 flows. Active campaigns.
 
-1. Writing campaign emails from scratch
-2. Researching leads before discovery calls
-3. Writing proposals for every new enquiry
+Here is what was missing:
 
-She listed them without hesitating.
+Welcome series: one email going to everyone.
+Abandoned cart: one email, no recovery follow-up.
+Browse abandonment: not set up.
+Post-purchase: not set up.
+Segmentation: none - all campaigns to all subscribers.
 
-I had just built agents for all three. I remember the pause after I told her.
+For a 22,000-person list, those gaps represent significant recoverable revenue.
 
-Here is how to automate each one:
+The brands hitting 30 to 40 percent email revenue have all of the above in place - and they send campaigns to engaged segments, not everyone.
 
-Campaign emails: a campaign manager agent with your brand voice built in. Brief goes in, campaign sequence comes out. 13 emails in under 20 minutes.
+Open your Klaviyo analytics right now and check one number: what percentage of your total revenue is attributed to email?
 
-Lead research: a qualifier agent that scores brands from a URL and Instagram handle. 10 leads qualified in the time it took to qualify 1 manually.
+If it is below 20 percent, the gap is not in your product or your traffic. It is in your email setup.
 
-Proposals: a proposal writer that maps a brief to your service packages and generates the full document. 5-line brief to full proposal in under 5 minutes.
-
-These three tasks alone were costing her 10-12 hours a week. With systems: under 2 hours.
-
-The other 10 hours went back to building the business.
-
-Which of these three would you automate first?
-
-#MarketingAutomation #ShopifyMarketing #AIMarketing #eCommerce #ClaudeAI
+#Klaviyo #EmailRevenue #EmailMarketing #ShopifyMarketing #DTCBrands
 
 VISUAL REQUIRED: Yes
-VISUAL TYPE: Carousel
-VISUAL DESCRIPTION: 3-slide carousel showing one automation per slide. Each slide: the manual task time vs the automated task time side by side. Bold numbers. Clean layout.
+VISUAL TYPE: Static image
+VISUAL DESCRIPTION: "What percentage of your revenue comes from email?" Large question at top. Below: "Industry benchmark: 30-40%. Below 20%: your Klaviyo is underbuilt." Clean, direct, provokes reflection. Dark background.
 VISUAL TOOL: Canva
 
 ---
@@ -1036,40 +858,28 @@ VISUAL TOOL: Canva
 DAY: Saturday, June 27 2026
 PLATFORM: LinkedIn
 PILLAR: Saturday
-HOOK: Building two AI systems in public while still figuring things out taught me more than any course.
-MICRO-STORY: I remember pushing a broken agent to GitHub at 1am and thinking: I should not publish this. It is not ready. But then I thought about how many people were waiting to feel ready before they started. I pushed it. Wrote a post about what broke. Got 3 DMs from people who had the exact same problem.
+HOOK: Handling 4 client Klaviyo accounts while building my own marketing automation systems at the same time is the thing that has taught me more about both than either would have alone.
+MICRO-STORY: Client work shows me the patterns across accounts - the same gaps showing up in different industries, different revenue levels, different list sizes. Building my AI systems forces me to document those patterns clearly enough for a machine to execute them. That documentation makes me a better Klaviyo specialist.
 POST BODY:
-Building two AI systems in public while still figuring things out taught me more than any course.
+Handling client Klaviyo accounts while building my own automation systems has taught me more about both than either would have alone.
 
-1am. I pushed a broken agent to GitHub. It was not ready.
+Client work reveals patterns. The same gaps appear across accounts regardless of niche: underbuilt welcome series, one-email abandoned cart flows, no segmentation, no sunset flow. Seeing those patterns across 10 accounts makes the diagnosis faster and the solution more reliable.
 
-But I thought about how many people were waiting to feel ready before they started.
+Building systems forces documentation. When I need to encode my audit process into a tool that generates consistent output, I have to understand the process clearly enough to write it down precisely. That precision improves the client work.
 
-I pushed it. Wrote a post about what broke. Got 3 DMs from people with the exact same problem.
+The two things feed each other.
 
-Here is what building in public actually taught me:
+The most valuable skill I have developed is not the technical Klaviyo knowledge or the Python skills. It is knowing which problem to solve first - and why.
 
-Progress beats polish. A working system at 70% is more valuable than a perfect one that lives only in your head.
+If you are managing client work alongside building something of your own - the overlap is not a distraction. It is the education.
 
-Your struggles are your content. The post about what broke got more engagement than the post about what worked.
+What are you building alongside your client work right now?
 
-Community finds you through honesty. The DMs I get are from people who saw me stuck and kept going - not from people who saw a highlight reel.
-
-Showing up with the messy middle builds more trust than only showing the finished output.
-
-I have published broken code, unfinished ideas, and honest reflections on what I got wrong.
-
-Every single one of those posts taught me something or connected me to someone.
-
-Building in public is not about being perfect. It is about being present.
-
-What have you been waiting to publish because it is not ready yet?
-
-#BuildingInPublic #AIMarketing #GitHub #LearningInPublic #LinkedInTips
+#Klaviyo #BuildingInPublic #FreelancingLife #EmailMarketing #AIMarketing
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: A GitHub commit history screenshot or a designed mockup of one, showing commits at unusual hours like 1am, 11pm, 6am. Text overlay: "Shipped imperfect. Learned fast." Personal and real.
+VISUAL DESCRIPTION: Two-column graphic: "Client work" on the left with "reveals patterns" below. "Building systems" on the right with "forces documentation" below. Arrow in the middle: "They feed each other." Clean, professional.
 VISUAL TOOL: Canva
 
 ---
@@ -1077,42 +887,30 @@ VISUAL TOOL: Canva
 DAY: Sunday, June 28 2026
 PLATFORM: LinkedIn
 PILLAR: Sunday
-HOOK: June is almost over. I want to write a letter to God and to this community.
-MICRO-STORY: I almost did not post this month. In the first week of June I was tired, unsure if any of this was working, and questioning whether building in public was the right move. I prayed about it and felt one clear impression: keep showing up. So I did. And June became one of the most connected months I have had.
+HOOK: June ends today. I want to write something honest about what this month taught me.
+MICRO-STORY: This month had a week where I was juggling 3 client deliverables, a flow that broke after a Klaviyo update, and a proposal I wasn't sure was strong enough. I did not always feel calm about it. I felt the pressure. I showed up anyway.
 POST BODY:
-June is almost over. I want to write a letter to God and to this community.
+June ends today. I want to write something honest about what this month taught me.
 
-At the start of this month, I almost did not post. I was tired. Unsure. Questioning whether building in public was worth it.
+There was a week this month with 3 client deliverables due at the same time, a Klaviyo flow breaking after a platform update, and a proposal I wasn't sure about.
 
-I prayed. I felt one clear impression: keep showing up.
+I showed up anyway.
 
-So I did.
+To God: thank you for the clarity that came when I needed it. For the client who sent an unexpected message saying the abandoned cart rebuild made a real difference to their month. For the moments where the work felt like it mattered. You were present in all of it.
 
-To God:
-
-Thank you for clarity in the middle of confusion. For the quiet moments at my desk when the answer came just before I gave up. For the agent that finally worked. For the client who said yes. For the follower who said "this is exactly what I needed today." You were in all of it.
-
-To this community:
-
-Thank you for reading. For commenting. For DMing. For sharing your own stories in response to mine.
-
-Every connection this month reminded me that building in public is not performance. It is community.
-
-We are all figuring this out. Some of us with code. Some with Canva. Some with just a phone and a LinkedIn profile.
-
-What matters is that we keep showing up for what we are building.
+To this community: thank you for engaging, commenting, and sharing what resonates. Every question you ask in the comments makes the next post more useful.
 
 Ecclesiastes 9:10: "Whatever your hand finds to do, do it with all your might."
 
-That is the assignment. For June. For July. For every month after.
+That is the standard I hold myself to. Not perfection. Full effort.
 
-Thank you. Truly. Happy Sunday.
+Thank you for being here. Happy Sunday.
 
-#Faith #Gratitude #SundayReflection #June2026 #ChristianEntrepreneur
+#Faith #Gratitude #SundayReflection #June2026 #Klaviyo
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Static image
-VISUAL DESCRIPTION: A warm, handwritten-style letter aesthetic. Cream background with Ecclesiastes 9:10 at the bottom. The word "Thank you" in large, warm script at the top. Feels personal and heartfelt.
+VISUAL DESCRIPTION: Warm, handwritten-letter aesthetic. Cream background. "Thank you." in warm script at the top. Ecclesiastes 9:10 in elegant smaller text at the bottom. Personal and sincere.
 VISUAL TOOL: Canva
 
 ---
@@ -1120,38 +918,32 @@ VISUAL TOOL: Canva
 DAY: Monday, June 29 2026
 PLATFORM: LinkedIn
 PILLAR: Builder
-HOOK: Two GitHub repos. Dozens of agents. One lesson that changed how I think about systems.
-MICRO-STORY: When I first started building femfit-marketing-system I made every agent do too much. The campaign manager was also supposed to do lead research and proposal writing. It sounded efficient. In practice it was fragile. One broken instruction and the whole output suffered. I had to strip it all back and rebuild with one rule: one agent, one job.
+HOOK: A DTC lifestyle brand had never set up a post-purchase flow. Every customer who completed an order was going into the same silence after checkout.
+MICRO-STORY: The brand had been running for 3 years on Shopify. They had an abandoned cart flow - one email. They had a welcome series - one email. They had no post-purchase flow. Every buyer, from first-time to repeat, received one Shopify order confirmation and nothing else from the brand until the next campaign send.
 POST BODY:
-Two GitHub repos. Dozens of agents. One lesson that changed how I think about systems.
+A DTC lifestyle brand had never built a post-purchase flow. Every customer received a Shopify confirmation and then silence.
 
-When I built femfit-marketing-system, I made every agent do too much. Campaign manager. Lead research. Proposal writing. All in one.
+I built a 4-email post-purchase sequence structured around the customer lifecycle.
 
-Sounded efficient. In practice: fragile. One broken instruction, whole output suffered.
+Email 1 at 1 hour: branded order confirmation with "what happens next" and customer support contact. Replaces the default Shopify email with a branded experience.
 
-I stripped it all back.
+Email 2 at 3 days: how to use or care for what they bought. Reduces uncertainty, reduces returns.
 
-One rule: one agent, one job.
+Email 3 at 14 days: review request - timed to after they have experienced the product.
 
-Here is what building two systems taught me about systems thinking:
+Email 4 at 30 days: "people who bought X also love Y" - one recommendation, clear CTA.
 
-Modularity over completeness. A system made of small, focused parts is easier to fix, test, and improve than one big system trying to do everything.
+In the 60 days after the flow went live, 22 percent of first-time buyers made a second purchase. In the prior 60-day period: 9 percent.
 
-Naming matters. An agent called "campaign-manager" should only manage campaigns. If it starts doing outreach, rename it or split it.
+Your post-purchase flow is not just a customer service tool. It is your most reliable repeat-purchase engine.
 
-The context file is the brain. CLAUDE.md is the shared memory that makes every agent consistent without repeating instructions.
+Does your Klaviyo account have one?
 
-Every failure is a design flaw, not a tool problem. When an agent produces bad output, the issue is almost always in the prompt structure, not the AI.
-
-Systems thinking applied to marketing is just DevOps thinking with a different output format.
-
-What is one system in your business that is trying to do too many jobs at once?
-
-#SystemsThinking #AIMarketing #ClaudeCode #BuildingInPublic #MarketingAutomation
+#Klaviyo #PostPurchase #EmailMarketing #ShopifyMarketing #eCommerce
 
 VISUAL REQUIRED: Yes
-VISUAL TYPE: Static image
-VISUAL DESCRIPTION: A diagram showing two versions of an agent system. Version 1: one large box with too many functions, labeled "fragile." Version 2: multiple small focused boxes connected, labeled "modular." Clean, clear, developer-aesthetic.
+VISUAL TYPE: Carousel
+VISUAL DESCRIPTION: 4-slide carousel. One email per slide with timing, purpose, and what to include. Final slide: stat result "22% vs 9% repeat purchase in 60 days." Clean flow diagram style.
 VISUAL TOOL: Canva
 
 ---
@@ -1159,34 +951,32 @@ VISUAL TOOL: Canva
 DAY: Tuesday, June 30 2026
 PLATFORM: LinkedIn
 PILLAR: Educator
-HOOK: Most Shopify stores have the same email problem. Here is the 3-step fix.
-MICRO-STORY: In the last 6 months I have audited Klaviyo accounts for wellness brands, fashion brands, and fitness brands. Different niches, different revenue levels, different audiences. But the same three problems keep appearing. Every single time. I started keeping a list after the fourth audit. By the seventh I knew I had a pattern.
+HOOK: Email should generate 30 to 40 percent of your Shopify revenue. If it is generating less than 20 percent, here is what is usually missing.
+MICRO-STORY: The most common response I get when I tell a founder this benchmark is "we get about 10 percent from email." When I ask how many flows they have active in Klaviyo, the answer is usually 1 or 2. When I ask if they segment their campaigns, the answer is usually no.
 POST BODY:
-Most Shopify stores have the same email problem. Here is the 3-step fix.
+Email should generate 30 to 40 percent of your Shopify revenue. If it is generating less than 20 percent, here is what is usually missing.
 
-In the last 6 months I have audited Klaviyo accounts across wellness, fashion, and fitness brands. Different niches. Different revenue levels. Same three problems. Every single time.
+The brands hitting 30 to 40 percent typically have all of these in place:
 
-Problem 1: The welcome series is too slow.
-Email 1 arrives. Email 2 arrives 7 days later. The buying window is 48-72 hours. By day 7, the subscriber has already decided.
-Fix: 5 emails in 5 days. Welcome, social proof, bestseller, objection handling, last chance.
+Flows: welcome series, abandoned cart (3 emails), browse abandonment, post-purchase, win-back, and sunset. Each one is active and tested.
 
-Problem 2: Abandoned cart is one email.
-One email sent 1 hour after abandonment. That is the whole sequence.
-Fix: 3 emails. Hour 1, 24 hours, 48-72 hours. Each email has a different angle.
+Segmentation: campaigns go to engaged subscribers only. VIP customers get different messaging. New subscribers are not treated the same as 3-year loyalists.
 
-Problem 3: No post-purchase sequence.
-The sale closes and then: silence. No upsell, no review request, no replenishment reminder.
-Fix: 4-email post-purchase sequence. Confirmation, education, review request, complementary product recommendation.
+Campaign frequency: 2 to 4 campaigns per month to the engaged segment. Enough to stay present. Not so much that engagement drops.
 
-These three fixes recover significant revenue from your existing list - without spending more on ads.
+A/B testing: subject lines, send times, and email length are tested regularly.
 
-Which of these three does your Klaviyo have right now?
+If you have 1 or 2 flows and no segmentation, your email channel is set up - but it is not optimised.
 
-#Klaviyo #EmailMarketing #ShopifyMarketing #eCommerce #MarketingAutomation
+Optimised email does not just generate more revenue. It generates more predictable revenue.
+
+What percentage of your Shopify revenue is coming from Klaviyo right now?
+
+#Klaviyo #EmailRevenue #EmailMarketing #ShopifyMarketing #DTCBrands
 
 VISUAL REQUIRED: Yes
 VISUAL TYPE: Carousel
-VISUAL DESCRIPTION: 3-slide carousel, one problem per slide. Each slide shows the problem in red text at the top and the fix in green text below. Clean, high-contrast, easy to save and share. Final slide: "All 3 problems? Let's fix them. Link in bio."
+VISUAL DESCRIPTION: 4-slide carousel. Slide 1: "Email should drive 30-40% of your Shopify revenue. Here's how." Slides 2-5: one section per slide - Flows, Segmentation, Frequency, Testing. Clean checklist format per slide. Final slide: "Check your Klaviyo analytics now."
 VISUAL TOOL: Canva
 
 ---
@@ -1199,10 +989,7 @@ METRICS LOG
 - Behind the Scenes posts: 4 (Wednesdays)
 - Proof posts: 4 (Thursdays)
 - Client-focused posts: 4 (Fridays)
-- Saturday social posts: 4
-- Sunday faith posts: 4
-- Carousels recommended: 11
-- Screen recordings recommended: 4
-- Static images recommended: 15
-- Date range: June 1-30 2026
-- Generated: May 13, 2026
+- Saturday posts: 4
+- Sunday posts: 4
+- Primary Klaviyo topics covered: Abandoned cart, Welcome series, Browse abandonment, Deliverability, Segmentation, List cleaning, RFM, Subject lines, Sunset flow, Post-purchase, Email revenue benchmarks, Account audits
+- Generated: May 19, 2026
